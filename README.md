@@ -6,7 +6,9 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 - Papers
   - Survey
   - Layer Pruning
-  - 
+- Fine-tuning method
+- Models
+- Datasets 
 - Tools
 
 
