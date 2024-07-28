@@ -16,7 +16,9 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 
 
 - [1] Shortened LLaMA: Depth Pruning for Large Language Models with Comparison of Retraining Methods
+  Arxiv, [Paper](https://arxiv.org/pdf/2402.02834) [Code](https://github.com/Nota-NetsPresso/shortened-llm) 
 - [2] ShortGPT:Layers in Large Language Models are More Redundant Than You Expect
+  Arxiv, [Paper](https://arxiv.org/pdf/2403.03853) 
 
 ## Fine-tuning methods
 | Name     | Paper         |
