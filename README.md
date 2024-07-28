@@ -15,7 +15,7 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 ## Papers
 
 
-Shortened LLaMA: Depth Pruning for Large Language Models with Comparison of Retraining Methods
+1.Shortened LLaMA: Depth Pruning for Large Language Models with Comparison of Retraining Methods
 
 ## Fine-tuning method
 
@@ -25,8 +25,9 @@ Shortened LLaMA: Depth Pruning for Large Language Models with Comparison of Retr
 | LLaMa2 7b    | Developer    | 
 | LLaMa2 13b      | Designer     |
 | LLaMa2 7b    | Developer    | 
-| LLaMa2 7b    | Developer    | 
-| LLaMa2 7b    | Developer    | 
+| LLaMa 7b    | 1    | 
+| Vicuna 7b    | 1    | 
+| Vicuna 13b    | 1    | 
 
 ## Datasets
 | Name     | Paper         |
