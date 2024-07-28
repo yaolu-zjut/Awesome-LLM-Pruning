@@ -19,6 +19,12 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 - [2] 
 
 ## Fine-tuning method
+| Name     | Paper         |
+|----------|--------------|
+| Low-RankAdaptation (LoRA)    | [1]   | 
+| ContinuedPretraining (CPT)    | [1]   | 
+| CPT+LoRA    | [1]   | 
+ 
 
 ## Models
 | Name     | Paper         |
