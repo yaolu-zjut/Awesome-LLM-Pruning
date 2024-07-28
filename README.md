@@ -24,6 +24,9 @@ Shortened LLaMA: Depth Pruning for Large Language Models with Comparison of Retr
 |----------|--------------|
 | LLaMa2 7b    | Developer    | 
 | LLaMa2 13b      | Designer     |
+| LLaMa2 7b    | Developer    | 
+| LLaMa2 7b    | Developer    | 
+| LLaMa2 7b    | Developer    | 
 
 ## Datasets
 | Name     | Paper         |
