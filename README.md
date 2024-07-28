@@ -12,6 +12,9 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 
 ## Papers
 
+
+Shortened LLaMA: Depth Pruning for Large Language Models with Comparison of Retraining Methods
+
 ## Tools
 
 
