@@ -6,7 +6,7 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 - Papers
   - Survey
   - Layer Pruning
-- Fine-tuning method
+- Fine-tuning methods
 - Models
 - Datasets 
 - Tools
@@ -18,7 +18,7 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 - [1] Shortened LLaMA: Depth Pruning for Large Language Models with Comparison of Retraining Methods
 - [2] 
 
-## Fine-tuning method
+## Fine-tuning methods
 | Name     | Paper         |
 |----------|--------------|
 | Low-RankAdaptation (LoRA)    | [1]   | 
