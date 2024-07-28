@@ -16,7 +16,7 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 
 
 - [1] Shortened LLaMA: Depth Pruning for Large Language Models with Comparison of Retraining Methods
-- [2] 
+- [2] ShortGPT:Layers in Large Language Models are More Redundant Than You Expect
 
 ## Fine-tuning methods
 | Name     | Paper         |
