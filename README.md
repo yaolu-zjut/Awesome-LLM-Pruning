@@ -17,7 +17,22 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 
 Shortened LLaMA: Depth Pruning for Large Language Models with Comparison of Retraining Methods
 
+## Fine-tuning method
+
+## Models
+
+
+| Name     | Role         | GitHub Username |
+|----------|--------------|-----------------|
+| Alice    | Developer    | @alice          |
+| Bob      | Designer     | @bob            |
+
+## Datasets
+
 ## Tools
+
+
+
 
 
 
