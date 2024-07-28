@@ -52,22 +52,22 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 ### For Finetuning
 | Name     | Paper         |
 |----------|--------------|
-| Alpaca    |   [1]   |
+| the cleaned version of Alpaca  |   [1],[3],  |
 | SlimPajama      |   [1]   |
 
 ### For Evaluation
 | Name     | Paper         |
 |----------|--------------|
-| BoolQ   |  [1],[2]   | 
-| PIQA    |    [1],[2]  |
-| WikiText2   |   [1]   |
-| PTB  |   [1]   |
-| HellaSwag |    [1],[2]  |
-| WinoGrande |   [1]   |
+| BoolQ   |  [1],[2],[3],   | 
+| PIQA    |    [1],[2],[3],  |
+| WikiText2   |   [1],[3],  |
+| PTB  |   [1],[3],  |
+| HellaSwag |    [1],[2],[3],  |
+| WinoGrande |   [1],[3],   |
 | ARC-easy |   [1]   |
 | ARC-challenge |   [1]   |
 | OpenbookQA |   [1]   |
-| MMLU |   [2]   |
+| MMLU |   [2],[3],   |
 | CMMLU |   [2]   |
 | CMNLI |   [2]   |
 | CHID |   [2]   |
@@ -76,6 +76,7 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 | XSum |   [2]   |
 | C3 |   [2]   |
 | PG19 |   [2]   |
+| SCIQ |   [3]   |
 
 ## Tools
 [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness)
