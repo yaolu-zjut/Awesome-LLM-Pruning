@@ -34,8 +34,22 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 |----------|--------------|
 | MMLU    |     | 
 | CMMLU      |      |
+| BookCorpus    |  1    |
+| Alpaca    |   1   |
+| SlimPajama      |   1   |
 
-
+## Datasets（Evaluation）
+| Name     | Paper         |
+|----------|--------------|
+| BoolQ   |  1   | 
+| PIQA    |    1  |
+| WikiText2   |   1   |
+| PTB  |   1   |
+| HellaSwag |    1  |
+| WinoGrande |   1   |
+| ARC-easy |   1   |
+| ARC-challenge |   1   |
+| OpenbookQA |   1   |
 ## Tools
 
 
