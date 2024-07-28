@@ -20,14 +20,17 @@ Shortened LLaMA: Depth Pruning for Large Language Models with Comparison of Retr
 ## Fine-tuning method
 
 ## Models
-
-
-| Name     | Role         | GitHub Username |
-|----------|--------------|-----------------|
-| Alice    | Developer    | @alice          |
-| Bob      | Designer     | @bob            |
+| Name     | Paper         |
+|----------|--------------|
+| LLaMa2 7b    | Developer    | 
+| LLaMa2 13b      | Designer     |
 
 ## Datasets
+| Name     | Paper         |
+|----------|--------------|
+| MMLU    |     | 
+| CMMLU      |      |
+
 
 ## Tools
 
