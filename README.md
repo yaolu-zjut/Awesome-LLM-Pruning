@@ -25,12 +25,11 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 |----------|--------------|
 | LLaMa2 7b    | Developer    | 
 | LLaMa2 13b      | Designer     |
-| LLaMa2 7b    | Developer    | 
-| LLaMa 7b    | 1    | 
-| Vicuna 7b    | 1    | 
-| Vicuna 13b    | 1    | 
+| LLaMA-7B    | [1]    | 
+| Vicuna-7b-v1.3    | [1]    | 
+| Vicuna-13b-v1.3    | [1]    | 
 
-## Datasets
+## Datasets (For Finetuning)
 | Name     | Paper         |
 |----------|--------------|
 | MMLU    |     | 
@@ -39,7 +38,7 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 | Alpaca    |   1   |
 | SlimPajama      |   1   |
 
-## Datasets（Evaluation）
+## Datasets（For Evaluation）
 | Name     | Paper         |
 |----------|--------------|
 | BoolQ   |  1   | 
