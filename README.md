@@ -29,8 +29,10 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 ## Models
 | Name     | Paper         |
 |----------|--------------|
-| LLaMa2 7b    | Developer    | 
-| LLaMa2 13b      | Designer     |
+| LLaMA2-7B    | [2]    | 
+| LLaMaA2-13B      | [2]     |
+| Baichuan2-7B   |   [2]           |
+| Baichuan2-13B   |   [2]           |
 | LLaMA-7B    | [1]    | 
 | Vicuna-7b-v1.3    | [1]    | 
 | Vicuna-13b-v1.3    | [1]    | 
@@ -50,15 +52,24 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 ### For Evaluation
 | Name     | Paper         |
 |----------|--------------|
-| BoolQ   |  [1]   | 
-| PIQA    |    [1]  |
+| BoolQ   |  [1],[2]   | 
+| PIQA    |    [1],[2]  |
 | WikiText2   |   [1]   |
 | PTB  |   [1]   |
-| HellaSwag |    [1]  |
+| HellaSwag |    [1],[2]  |
 | WinoGrande |   [1]   |
 | ARC-easy |   [1]   |
 | ARC-challenge |   [1]   |
 | OpenbookQA |   [1]   |
+| MMLU |   [2]   |
+| CMMLU |   [2]   |
+| CMNLI |   [2]   |
+| CHID |   [2]   |
+| CoQA |   [2]   |
+| Race |   [2]   |
+| XSum |   [2]   |
+| C3 |   [2]   |
+| PG19 |   [2]   |
 
 ## Tools
 [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness)
