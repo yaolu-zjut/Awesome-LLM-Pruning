@@ -23,6 +23,8 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   Arxiv, [Paper](https://arxiv.org/pdf/2407.00928)
 - [4] Pruning via Merging: Compressing LLMs via Manifold Alignment Based Layer Merging
   Arxiv, [Paper](https://arxiv.org/pdf/2406.16330)
+- [5] LaCo: Large Language Model Pruning via Layer Collapse
+  Arxiv, [Paper](https://arxiv.org/pdf/2402.11187)
 
   
 ## Fine-tuning methods
