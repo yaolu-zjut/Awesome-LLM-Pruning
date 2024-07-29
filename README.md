@@ -88,6 +88,7 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 
 ## Tools
 [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness)
+[OpenCompass](https://github.com/open-compass/opencompass)
 
 
 ## 
