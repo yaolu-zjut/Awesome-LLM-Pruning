@@ -66,25 +66,26 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 ### For Evaluation
 | Name     | Paper         |
 |----------|--------------|
-| BoolQ   |  [1],[2],[3],[4]   | 
-| PIQA    |    [1],[2],[3],[4], |
+| BoolQ   |  [1],[2],[3],[4],[5]   | 
+| PIQA    |    [1],[2],[3],[4],[5], |
 | WikiText2   |   [1],[3],  |
 | PTB  |   [1],[3],  |
-| HellaSwag |    [1],[2],[3],[4]  |
+| HellaSwag |    [1],[2],[3],[4],[5]  |
 | WinoGrande |   [1],[3],   |
 | ARC-easy |   [1]   |
 | ARC-challenge |   [1]   |
 | OpenbookQA |   [1]   |
-| MMLU |   [2],[3],[4]  |
+| MMLU |   [2],[3],[4],[5]  |
 | CMMLU |   [2]   |
-| CMNLI |   [2]   |
-| CHID |   [2]   |
-| CoQA |   [2]   |
-| Race |   [2],[4]   |
-| XSum |   [2]   |
-| C3 |   [2]   |
+| CMNLI |   [2],[5]   |
+| CHID |   [2],[5]   |
+| CoQA |   [2],[5]   |
+| Race |   [2],[4],[5]   |
+| XSum |   [2],[5]   |
+| C3 |   [2],[5]   |
 | PG19 |   [2]   |
 | SCIQ |   [3]   |
+| WSC |   [5]   |
 
 ## Tools
 [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness)
