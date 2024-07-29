@@ -36,8 +36,10 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 ## Models
 | Name     | Paper         |
 |----------|--------------|
-| LLaMA2-7B    | [2],[3]   | 
-| LLaMaA2-13B      | [2]     |
+| LLaMA2-7B    | [2],[3],[4]  | 
+| LLaMaA2-13B      | [2],[4]    |
+| LLaMaA3-8B      | [4]     |
+| LLaMaA3-70B      | [4]     |
 | Baichuan2-7B   |   [2]           |
 | Baichuan2-13B   |   [2]           |
 | LLaMA-7B    | [1]    | 
@@ -45,6 +47,7 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 | Vicuna-13b-v1.3    | [1]    | 
 | Gemma-2B |  [3] |
 | TinyLLaMA-1.1B |  [3] |
+| Mixtral-7B      | [4]     |
 
 ## Datasets 
 ### Calibration Dataset
