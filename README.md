@@ -64,11 +64,11 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 ### For Evaluation
 | Name     | Paper         |
 |----------|--------------|
-| BoolQ   |  [1],[2],[3],   | 
-| PIQA    |    [1],[2],[3],  |
+| BoolQ   |  [1],[2],[3],[4]   | 
+| PIQA    |    [1],[2],[3],[4], |
 | WikiText2   |   [1],[3],  |
 | PTB  |   [1],[3],  |
-| HellaSwag |    [1],[2],[3],  |
+| HellaSwag |    [1],[2],[3],[4]  |
 | WinoGrande |   [1],[3],   |
 | ARC-easy |   [1]   |
 | ARC-challenge |   [1]   |
@@ -78,7 +78,7 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 | CMNLI |   [2]   |
 | CHID |   [2]   |
 | CoQA |   [2]   |
-| Race |   [2]   |
+| Race |   [2],[4]   |
 | XSum |   [2]   |
 | C3 |   [2]   |
 | PG19 |   [2]   |
