@@ -73,7 +73,7 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 | ARC-easy |   [1]   |
 | ARC-challenge |   [1]   |
 | OpenbookQA |   [1]   |
-| MMLU |   [2],[3],   |
+| MMLU |   [2],[3],[4]  |
 | CMMLU |   [2]   |
 | CMNLI |   [2]   |
 | CHID |   [2]   |
