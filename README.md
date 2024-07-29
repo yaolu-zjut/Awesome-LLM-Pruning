@@ -21,7 +21,10 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   Arxiv, [Paper](https://arxiv.org/pdf/2403.03853)
 - [3] FoldGPT: Simple and Effective Large Language Model Compression Scheme
   Arxiv, [Paper](https://arxiv.org/pdf/2407.00928)
+- [4] Pruning via Merging: Compressing LLMs via Manifold Alignment Based Layer Merging
+  Arxiv, [Paper](https://arxiv.org/pdf/2406.16330)
 
+  
 ## Fine-tuning methods
 | Name     | Paper         |
 |----------|--------------|
