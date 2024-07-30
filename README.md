@@ -38,7 +38,7 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 - [7] SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot
   ICML23, [Paper](https://proceedings.mlr.press/v202/frantar23a/frantar23a.pdf)
   - Summary: 
-
+- [8] 
 
   
 ## Fine-tuning methods
