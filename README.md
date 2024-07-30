@@ -34,7 +34,7 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Summary:
 - [6] BlockPruner: Fine-grained Pruning for Large Language Models
   Arxiv, [Paper](https://arxiv.org/pdf/2406.10594)
-  - Summary: 
+  - Summary: BlockPruner segments each Transformer layer into MHA and MLP blocks. It then assesses the importance of these blocks using perplexity measures and applies a heuristic search for iterative pruning. 
 
   
 ## Fine-tuning methods
