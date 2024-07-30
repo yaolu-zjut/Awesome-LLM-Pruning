@@ -10,6 +10,8 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 - Models
 - Datasets 
 - Tools
+- Others
+- Citation
 
 
 ## Papers
@@ -95,6 +97,11 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 
 ## 
 - Applicability with Quantization
+
+## Others
+If the statistics are wrong, please don't hesitate to contact us.
+
+## Citation
 
 
 
