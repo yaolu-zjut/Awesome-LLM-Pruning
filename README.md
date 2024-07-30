@@ -115,6 +115,14 @@ If the statistics are wrong, please don't hesitate to contact us.
 ## Citation
 
 
+## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=ChenLiu-1996/CitationMap&type=Date)](https://star-history.com/#ChenLiu-1996/CitationMap&Date)
+
+<details>
+<summary>Version 3.11 (Jul 28, 2024)</summary>
+<br>
+
+
 
 
 
