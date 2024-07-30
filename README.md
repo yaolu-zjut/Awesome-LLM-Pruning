@@ -31,6 +31,9 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Summary: 
 - [5] LaCo: Large Language Model Pruning via Layer Collapse
   Arxiv, [Paper](https://arxiv.org/pdf/2402.11187)
+  - Summary:
+- [6] BlockPruner: Fine-grained Pruning for Large Language Models
+  Arxiv, [Paper](https://arxiv.org/pdf/2406.10594)
   - Summary: 
 
   
