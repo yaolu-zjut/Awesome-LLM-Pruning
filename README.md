@@ -81,13 +81,13 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 | Name     | Paper         |
 |----------|--------------|
 | BoolQ   |  [1],[2],[3],[4],[5]   | 
-| PIQA    |    [1],[2],[3],[4],[5], |
-| WikiText2   |   [1],[3],  |
+| PIQA    |    [1],[2],[3],[4],[5],[6] |
+| WikiText2   |   [1],[3],[6]  |
 | PTB  |   [1],[3],  |
-| HellaSwag |    [1],[2],[3],[4],[5]  |
-| WinoGrande |   [1],[3],   |
-| ARC-easy |   [1]   |
-| ARC-challenge |   [1]   |
+| HellaSwag |    [1],[2],[3],[4],[5],[6]  |
+| WinoGrande |   [1],[3],[6]   |
+| ARC-easy |   [1],[6]   |
+| ARC-challenge |   [1],[6]   |
 | OpenbookQA |   [1]   |
 | MMLU |   [2],[3],[4],[5]  |
 | CMMLU |   [2]   |
