@@ -18,15 +18,20 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 
 
 - [1] Shortened LLaMA: Depth Pruning for Large Language Models with Comparison of Retraining Methods
-  Arxiv, [Paper](https://arxiv.org/pdf/2402.02834), [Code](https://github.com/Nota-NetsPresso/shortened-llm) 
+  Arxiv, [Paper](https://arxiv.org/pdf/2402.02834), [Code](https://github.com/Nota-NetsPresso/shortened-llm)
+  - Summary: 
 - [2] ShortGPT:Layers in Large Language Models are More Redundant Than You Expect
   Arxiv, [Paper](https://arxiv.org/pdf/2403.03853)
+  - Summary: 
 - [3] FoldGPT: Simple and Effective Large Language Model Compression Scheme
   Arxiv, [Paper](https://arxiv.org/pdf/2407.00928)
+  - Summary: 
 - [4] Pruning via Merging: Compressing LLMs via Manifold Alignment Based Layer Merging
   Arxiv, [Paper](https://arxiv.org/pdf/2406.16330)
+  - Summary: 
 - [5] LaCo: Large Language Model Pruning via Layer Collapse
   Arxiv, [Paper](https://arxiv.org/pdf/2402.11187)
+  - Summary: 
 
   
 ## Fine-tuning methods
