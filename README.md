@@ -118,10 +118,6 @@ If the statistics are wrong, please don't hesitate to contact us.
 ## Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=yaolu-zjut/Awesome-LLM-Pruning&type=Date)](https://star-history.com/#yaolu-zjut/Awesome-LLM-Pruning&Date)
 
-<details>
-<summary>Version 3.11 (Jul 28, 2024)</summary>
-<br>
-
 
 
 
