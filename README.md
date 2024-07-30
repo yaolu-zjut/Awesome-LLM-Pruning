@@ -37,7 +37,7 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Summary: BlockPruner segments each Transformer layer into MHA and MLP blocks. It then assesses the importance of these blocks using perplexity measures and applies a heuristic search for iterative pruning.
 - [7] SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot
   ICML23, [Paper](https://proceedings.mlr.press/v202/frantar23a/frantar23a.pdf)
-  - Summary:
+  - Summary: 
 
 
   
