@@ -19,11 +19,11 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 
 - [1] Shortened LLaMA: Depth Pruning for Large Language Models with Comparison of Retraining Methods
   Arxiv, [Paper](https://arxiv.org/pdf/2402.02834), [Code](https://github.com/Nota-NetsPresso/shortened-llm)
-  - Label:
+  - Label: Structure Pruning, Depth Pruning
   - Summary: 
 - [2] ShortGPT:Layers in Large Language Models are More Redundant Than You Expect
   Arxiv, [Paper](https://arxiv.org/pdf/2403.03853)
-  - Label:
+  - Label: Structure Pruning, Depth Pruning
   - Summary: ShortGPT propose a metric called Block Influence (BI) as an effective indicator of layer importance. Based on the BI metric, they propose a simple yet effective pruning strategy by removing layers with low BI scores.
 - [3] FoldGPT: Simple and Effective Large Language Model Compression Scheme
   Arxiv, [Paper](https://arxiv.org/pdf/2407.00928)
@@ -31,10 +31,10 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Summary: 
 - [4] Pruning via Merging: Compressing LLMs via Manifold Alignment Based Layer Merging
   Arxiv, [Paper](https://arxiv.org/pdf/2406.16330)
-  - Summary: 
+  - Summary: Structure Pruning, Depth Pruning
 - [5] LaCo: Large Language Model Pruning via Layer Collapse
   Arxiv, [Paper](https://arxiv.org/pdf/2402.11187)
-  - Label:
+  - Label: Structure Pruning, Depth Pruning
   - Summary:
 - [6] BlockPruner: Fine-grained Pruning for Large Language Models
   Arxiv, [Paper](https://arxiv.org/pdf/2406.10594)
