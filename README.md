@@ -19,27 +19,34 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 
 - [1] Shortened LLaMA: Depth Pruning for Large Language Models with Comparison of Retraining Methods
   Arxiv, [Paper](https://arxiv.org/pdf/2402.02834), [Code](https://github.com/Nota-NetsPresso/shortened-llm)
+  - Label:
   - Summary: 
 - [2] ShortGPT:Layers in Large Language Models are More Redundant Than You Expect
   Arxiv, [Paper](https://arxiv.org/pdf/2403.03853)
+  - Label:
   - Summary: ShortGPT propose a metric called Block Influence (BI) as an effective indicator of layer importance. Based on the BI metric, they propose a simple yet effective pruning strategy by removing layers with low BI scores.
 - [3] FoldGPT: Simple and Effective Large Language Model Compression Scheme
   Arxiv, [Paper](https://arxiv.org/pdf/2407.00928)
+  - Label:
   - Summary: 
 - [4] Pruning via Merging: Compressing LLMs via Manifold Alignment Based Layer Merging
   Arxiv, [Paper](https://arxiv.org/pdf/2406.16330)
   - Summary: 
 - [5] LaCo: Large Language Model Pruning via Layer Collapse
   Arxiv, [Paper](https://arxiv.org/pdf/2402.11187)
+  - Label:
   - Summary:
 - [6] BlockPruner: Fine-grained Pruning for Large Language Models
   Arxiv, [Paper](https://arxiv.org/pdf/2406.10594)
+  - Label:
   - Summary: BlockPruner segments each Transformer layer into MHA and MLP blocks. It then assesses the importance of these blocks using perplexity measures and applies a heuristic search for iterative pruning.
 - [7] SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot
   ICML23, [Paper](https://proceedings.mlr.press/v202/frantar23a/frantar23a.pdf)
+  - Label:
   - Summary: 
 - [8]  LLM-Pruner: On the Structural Pruning of Large Language Models
   Arxiv, [Paper](https://arxiv.org/pdf/2305.11627)
+  - Label:
   - Summary: LLM-Pruner details a pruning algorithm that evaluates neuron importance within each layer. Based on the pruning algorithm，It removes neurons with minimal contribution to optimize model efficiency.
 
   
