@@ -38,7 +38,9 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 - [7] SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot
   ICML23, [Paper](https://proceedings.mlr.press/v202/frantar23a/frantar23a.pdf)
   - Summary: 
-- [8] 
+- [8]  LLM-Pruner: On the Structural Pruning of Large Language Models
+  Arxiv, [Paper](https://arxiv.org/pdf/2305.11627)
+  - Summary: 
 
   
 ## Fine-tuning methods
@@ -82,15 +84,15 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 ### For Evaluation
 | Name     | Paper         |
 |----------|--------------|
-| BoolQ   |  [1],[2],[3],[4],[5]   | 
-| PIQA    |    [1],[2],[3],[4],[5],[6] |
-| WikiText2   |   [1],[3],[6]  |
-| PTB  |   [1],[3],  |
-| HellaSwag |    [1],[2],[3],[4],[5],[6]  |
-| WinoGrande |   [1],[3],[6]   |
-| ARC-easy |   [1],[6]   |
-| ARC-challenge |   [1],[6]   |
-| OpenbookQA |   [1]   |
+| BoolQ   |  [1],[2],[3],[4],[5],[8]  | 
+| PIQA    |    [1],[2],[3],[4],[5],[6],[8]|
+| WikiText2   |   [1],[3],[6],[8]  |
+| PTB  |   [1],[3],[8]  |
+| HellaSwag |    [1],[2],[3],[4],[5],[6],[8] |
+| WinoGrande |   [1],[3],[6],[8]   |
+| ARC-easy |   [1],[6],[8]  |
+| ARC-challenge |   [1],[6],[8]   |
+| OpenbookQA |   [1],[8]   |
 | MMLU |   [2],[3],[4],[5]  |
 | CMMLU |   [2]   |
 | CMNLI |   [2],[5]   |
