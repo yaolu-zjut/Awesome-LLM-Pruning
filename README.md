@@ -50,7 +50,7 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Summary: LLM-Pruner details a pruning algorithm that evaluates neuron importance within each layer. Based on the pruning algorithm，It removes neurons with minimal contribution to optimize model efficiency.
 - [9] The Truth is in There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction
   Arxiv, [Paper](https://arxiv.org/pdf/2312.13558)
-  - Label: Other
+  - Label: Other, Low-Rank Decomposition
   - Summary: This paper selectively removing higher-order components found by SVD of the weight matrices.
 
   
