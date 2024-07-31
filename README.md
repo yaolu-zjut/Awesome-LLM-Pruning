@@ -51,7 +51,7 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 - [9] The Truth is in There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction
   Arxiv, [Paper](https://arxiv.org/pdf/2312.13558)
   - Label: Other
-  - Summary: 
+  - Summary: This paper selectively removing higher-order components found by SVD of the weight matrices.
 
   
 ## Fine-tuning methods
