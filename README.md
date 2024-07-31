@@ -44,7 +44,7 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   ICML23, [Paper](https://proceedings.mlr.press/v202/frantar23a/frantar23a.pdf)
   - Label:
   - Summary: 
-- [8]  LLM-Pruner: On the Structural Pruning of Large Language Models
+- [8] LLM-Pruner: On the Structural Pruning of Large Language Models
   Arxiv, [Paper](https://arxiv.org/pdf/2305.11627)
   - Label:
   - Summary: LLM-Pruner details a pruning algorithm that evaluates neuron importance within each layer. Based on the pruning algorithm，It removes neurons with minimal contribution to optimize model efficiency.
@@ -54,7 +54,12 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Summary: This paper selectively removing higher-order components found by SVD of the weight matrices.
 - [10] RIA: Plug-and-Play: An Efficient Post-Training Pruning Method for Large Language Models
   ICLR 2024, [Paper](https://openreview.net/pdf?id=Tr0lPx9woF), [Code](https://github.com/biomedical-cybernetics/Relative-importance-and-activation-pruning)
-
+  - Label:
+  - Summary: 
+- [11] Wanda: A Simple and Effective Pruning Approach For Large Language Models
+  ICLR 2024, [Paper](https://arxiv.org/pdf/2306.11695.pdf), [Code](https://github.com/locuslab/wanda)
+  - Label:
+  - Summary: 
   
 ## Fine-tuning methods
 | Name     | Paper         |
