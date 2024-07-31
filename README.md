@@ -40,7 +40,7 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Summary: 
 - [8]  LLM-Pruner: On the Structural Pruning of Large Language Models
   Arxiv, [Paper](https://arxiv.org/pdf/2305.11627)
-  - Summary: 
+  - Summary: LLM-Pruner details a pruning algorithm that evaluates neuron importance within each layer. Based on the pruning algorithm，It removes neurons with minimal contribution to optimize model efficiency.
 
   
 ## Fine-tuning methods
