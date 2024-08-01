@@ -189,8 +189,8 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2406.10576)
   - Label: 
   - Summary:
-- [43] 
-  - Publication: Arxiv, [Paper]()
+- [44] Outlier Weighed Layerwise Sparsity (OWL): A Missing Secret Sauce for Pruning LLMs to High Sparsity
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2310.05175), [Code](https://github.com/luuyin/OWL)
   - Label: 
   - Summary:
 - [43] 
