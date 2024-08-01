@@ -117,16 +117,16 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2310.15929)
   - Label: 
   - Summary: 
-- [15] 
-  - Publication: Arxiv, [Paper]()
+- [26] The Emergence of Essential Sparsity in Large Pre-trained Models: The Weights that Matter 
+  - Publication: NeurIPS 2023, [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/7a69ab48efcbb0153e72d458fb091969-Paper-Conference.pdf)
+  - Label: 
+  - Summary: 
+- [27] ECoFLaP: Efficient Coarse-to-Fine Layer-Wise Pruning for Vision-Language Models
+  - Publication: ICLR 2024, [Paper](https://arxiv.org/pdf/2310.02998), [Code](https://github.com/ylsung/ECoFLaP)
   - Label: 
   - Summary:
-- [15] 
-  - Publication: Arxiv, [Paper]()
-  - Label: 
-  - Summary:
-- [15] 
-  - Publication: Arxiv, [Paper]()
+- [28] Pruning via Ranking (PvR): A unified structured pruning approach
+  - Publication: Arxiv, [Paper](https://openreview.net/pdf?id=rO62BY3dYc)
   - Label: 
   - Summary:
 - [15] 
