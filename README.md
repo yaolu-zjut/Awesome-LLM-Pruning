@@ -69,8 +69,8 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: NAACL 2024 findings, [Paper](https://aclanthology.org/2024.findings-naacl.1.pdf)
   - Label:  
   - Summary:
-- [14] 
-  - Publication: Arxiv
+- [14] LoRAShear: Efficient Large Language Model Structured Pruning and Knowledge Recovery
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2310.18356)
   - Label: 
   - Summary:
 - [15] Pruning Large Language Models via Accuracy Predictor
@@ -105,8 +105,8 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2402.09025)
   - Label: 
   - Summary:
-- [15] 
-  - Publication: Arxiv, [Paper]()
+- [23] Beyond Size: How Gradients Shape Pruning Decisions in Large Language Models
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2311.04902), [Code](https://github.com/VILA-Lab/GBLM-Pruner)
   - Label: 
   - Summary:
 - [15] 
