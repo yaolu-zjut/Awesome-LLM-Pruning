@@ -193,12 +193,12 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2310.05175), [Code](https://github.com/luuyin/OWL)
   - Label: 
   - Summary:
-- [43] 
-  - Publication: Arxiv, [Paper]()
+- [45] ALPS: Improved Optimization for Highly Sparse One-Shot Pruning for Large Language Models  
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2406.07831)
   - Label: 
   - Summary:
-- [43] 
-  - Publication: Arxiv, [Paper]()
+- [46] Nuteprune: Efficient progressive pruning with numerous teachers for large language models
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2402.09773)
   - Label: 
   - Summary:
 - [43] 
