@@ -109,8 +109,8 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2311.04902), [Code](https://github.com/VILA-Lab/GBLM-Pruner)
   - Label: 
   - Summary:
-- [15] 
-  - Publication: Arxiv, [Paper]()
+- [24] Compressing LLMs: The Truth is Rarely Pure and Never Simple
+  - Publication: ICLR 2024, [Paper](https://arxiv.org/pdf/2310.01382), [Code](https://github.com/VITA-Group/llm-kick)
   - Label: 
   - Summary:
 - [15] 
