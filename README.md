@@ -113,8 +113,8 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: ICLR 2024, [Paper](https://arxiv.org/pdf/2310.01382), [Code](https://github.com/VITA-Group/llm-kick)
   - Label: 
   - Summary:
-- [15] 
-  - Publication: Arxiv, [Paper]()
+- [25] E-Sparse: Boosting the Large Language Model Inference through Entropy-based N:M Sparsity 
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2310.15929)
   - Label: 
   - Summary: 
 - [15] 
