@@ -169,12 +169,12 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: ICLR 2024, [Paper](https://arxiv.org/pdf/2310.06694)
   - Label: 
   - Summary:
-- [15] 
-  - Publication: Arxiv, [Paper]()
+- [39] BESA: Pruning Large Language Models with Blockwise Parameter-Efficient Sparsity Allocation Outlier 
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2402.16880)
   - Label: 
   - Summary:
-- [15] 
-  - Publication: Arxiv, [Paper]()
+- [40] Pruner-Zero: Evolving Symbolic Pruning Metric from scratch for Large Language Models 
+  - Publication: ICML 2024, [Paper](https://arxiv.org/pdf/2406.02924)
   - Label: 
   - Summary:
 - [15] 
