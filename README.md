@@ -177,12 +177,12 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: ICML 2024, [Paper](https://arxiv.org/pdf/2406.02924)
   - Label: 
   - Summary:
-- [15] 
-  - Publication: Arxiv, [Paper]()
+- [41] Pruning as a Domain-specific LLM Extractor
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2405.06275)
   - Label: 
   - Summary:
-- [15] 
-  - Publication: Arxiv, [Paper]()
+- [42] MINI-LLM: Memory-Efficient Structured Pruning for Large Language Models
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2407.11681)
   - Label: 
   - Summary:
 
