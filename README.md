@@ -137,12 +137,12 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: ICML 2024, [Paper](https://arxiv.org/pdf/2405.07194)
   - Label: 
   - Summary:
-- [31] 
-  - Publication: Arxiv, [Paper]()
+- [31] Everybody Prune Now: Structured Pruning of LLMs with only Forward Passes
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2402.05406)
   - Label: 
   - Summary:
-- [32] 
-  - Publication: Arxiv, [Paper]()
+- [32] Flextron: Many-in-One Flexible Large Language Model
+  - Publication: ICML 2024, [Paper](https://arxiv.org/pdf/2406.10260)
   - Label: 
   - Summary:
 - [33] 
