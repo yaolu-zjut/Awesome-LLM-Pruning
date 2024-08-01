@@ -69,7 +69,7 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: NAACL 2024 findings, [Paper](https://aclanthology.org/2024.findings-naacl.1.pdf)
   - Label:  
   - Summary:
-- [14] Structured Pruning for Large Language Models Using Coupled Components Elimination and Minor Fine-tuning
+- [14] 
   - Publication: Arxiv, [Paper]()
   - Label: 
   - Summary:
