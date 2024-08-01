@@ -77,23 +77,23 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: ICASSP 2024, [Paper](https://arxiv.org/pdf/2309.09507)
   - Label: 
   - Summary:
-- [15] SliceGPT: Compress Large Language Models by Deleting Rows and Columns
+- [16] SliceGPT: Compress Large Language Models by Deleting Rows and Columns
   - Publication:  ICLR 2024, [Paper](https://arxiv.org/pdf/2401.15024)
   - Label: 
   - Summary:
-- [15] APT: Adaptive Pruning and Tuning Pretrained Language Models for Efficient Training and Inference
+- [17] APT: Adaptive Pruning and Tuning Pretrained Language Models for Efficient Training and Inference
   - Publication: ICML 2024 Oral, [Paper](https://arxiv.org/pdf/2401.12200), [Code](https://github.com/ROIM1998/APT)
   - Label: 
   - Summary:
-- [15] 
-  - Publication: Arxiv, [Paper]()
+- [18] How to Prune Your Language Model: Recovering Accuracy on the “Sparsity May Cry” Benchmark
+  - Publication: Conference on Parsimony and Learning 2024, [Paper](https://proceedings.mlr.press/v234/kurtic24a/kurtic24a.pdf)
   - Label: 
   - Summary:
-- [15] 
-  - Publication: Arxiv, [Paper]()
+- [19] The LLM Surgeon
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2312.17244)
   - Label: 
   - Summary:
-- [15] 
+- [20] 
   - Publication: Arxiv, [Paper]()
   - Label: 
   - Summary:
