@@ -68,23 +68,17 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   NAACL 2024 findings, [Paper](https://aclanthology.org/2024.findings-naacl.1.pdf)
   - Label:  
   - Summary:
-- [14] 
+- [14] Structured Pruning for Large Language Models Using Coupled Components Elimination and Minor Fine-tuning
   Arxiv, [Paper]()
   - Label: 
   - Summary:
 - [15] 
   Arxiv, [Paper]()
   - Label: 
-  - Summary: 
+  - Summary:
+- []
   
-## Fine-tuning methods
-| Name     | Paper         |
-|----------|--------------|
-| Low-RankAdaptation (LoRA)    | [1]   | 
-| ContinuedPretraining (CPT)    | [1]   | 
-| CPT+LoRA    | [1]   | 
  
-
 ## Models
 | Name     | Paper         |
 |----------|--------------|
@@ -141,9 +135,8 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 | WSC |   [5]   |
 
 ## Tools
-[lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness)
-
-[OpenCompass](https://github.com/open-compass/opencompass)
+- [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness)
+- [OpenCompass](https://github.com/open-compass/opencompass)
 
 
 ## 
