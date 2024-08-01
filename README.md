@@ -18,67 +18,175 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 
 
 - [1] Shortened LLaMA: Depth Pruning for Large Language Models with Comparison of Retraining Methods
-  Arxiv, [Paper](https://arxiv.org/pdf/2402.02834), [Code](https://github.com/Nota-NetsPresso/shortened-llm)
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2402.02834), [Code](https://github.com/Nota-NetsPresso/shortened-llm)
   - Label: Structure Pruning, Depth Pruning
   - Summary: 
 - [2] ShortGPT:Layers in Large Language Models are More Redundant Than You Expect
-  Arxiv, [Paper](https://arxiv.org/pdf/2403.03853)
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2403.03853)
   - Label: Structure Pruning, Depth Pruning
   - Summary: ShortGPT propose a metric called Block Influence (BI) as an effective indicator of layer importance. Based on the BI metric, they propose a simple yet effective pruning strategy by removing layers with low BI scores.
 - [3] FoldGPT: Simple and Effective Large Language Model Compression Scheme
-  Arxiv, [Paper](https://arxiv.org/pdf/2407.00928)
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2407.00928)
   - Label:
   - Summary: 
 - [4] Pruning via Merging: Compressing LLMs via Manifold Alignment Based Layer Merging
-  Arxiv, [Paper](https://arxiv.org/pdf/2406.16330)
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2406.16330)
+  - Label:
   - Summary: Structure Pruning, Depth Pruning
 - [5] LaCo: Large Language Model Pruning via Layer Collapse
-  Arxiv, [Paper](https://arxiv.org/pdf/2402.11187)
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2402.11187)
   - Label: Structure Pruning, Depth Pruning
   - Summary:
 - [6] BlockPruner: Fine-grained Pruning for Large Language Models
-  Arxiv, [Paper](https://arxiv.org/pdf/2406.10594), [Code](https://github.com/MrGGLS/BlockPruner)
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2406.10594), [Code](https://github.com/MrGGLS/BlockPruner)
   - Label: Structure Pruning, 
   - Summary: BlockPruner segments each Transformer layer into MHA and MLP blocks. It then assesses the importance of these blocks using perplexity measures and applies a heuristic search for iterative pruning.
 - [7] SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot
-  ICML23, [Paper](https://proceedings.mlr.press/v202/frantar23a/frantar23a.pdf)
+  - Publication: ICML23, [Paper](https://proceedings.mlr.press/v202/frantar23a/frantar23a.pdf)
   - Label:
   - Summary: 
 - [8] LLM-Pruner: On the Structural Pruning of Large Language Models
-  Arxiv, [Paper](https://arxiv.org/pdf/2305.11627)
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2305.11627)
   - Label:
   - Summary: LLM-Pruner details a pruning algorithm that evaluates neuron importance within each layer. Based on the pruning algorithm，It removes neurons with minimal contribution to optimize model efficiency.
 - [9] The Truth is in There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction
-  Arxiv, [Paper](https://arxiv.org/pdf/2312.13558), [Code](https://github.com/pratyushasharma/laser)
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2312.13558), [Code](https://github.com/pratyushasharma/laser)
   - Label: Other, Low-Rank Decomposition
   - Summary: This paper selectively removing higher-order components found by SVD of the weight matrices.
 - [10] RIA: Plug-and-Play: An Efficient Post-Training Pruning Method for Large Language Models
-  ICLR 2024, [Paper](https://openreview.net/pdf?id=Tr0lPx9woF), [Code](https://github.com/biomedical-cybernetics/Relative-importance-and-activation-pruning)
+  - Publication: ICLR 2024, [Paper](https://openreview.net/pdf?id=Tr0lPx9woF), [Code](https://github.com/biomedical-cybernetics/Relative-importance-and-activation-pruning)
   - Label:
   - Summary: 
 - [11] Wanda: A Simple and Effective Pruning Approach For Large Language Models
-  ICLR 2024, [Paper](https://arxiv.org/pdf/2306.11695.pdf), [Code](https://github.com/locuslab/wanda)
+  - Publication: ICLR 2024, [Paper](https://arxiv.org/pdf/2306.11695.pdf), [Code](https://github.com/locuslab/wanda)
   - Label:
   - Summary:
 - [12] LoRAP: Transformer Sub-Layers Deserve Differentiated Structured Compression for Large Language Models
-  Arxiv, [Paper](https://arxiv.org/pdf/2404.09695)
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2404.09695)
   - Label: Other, Low-Rank Decomposition
   - Summary:
 - [13] Structured Pruning for Large Language Models Using Coupled Components Elimination and Minor Fine-tuning
-  NAACL 2024 findings, [Paper](https://aclanthology.org/2024.findings-naacl.1.pdf)
+  - Publication: NAACL 2024 findings, [Paper](https://aclanthology.org/2024.findings-naacl.1.pdf)
   - Label:  
   - Summary:
 - [14] Structured Pruning for Large Language Models Using Coupled Components Elimination and Minor Fine-tuning
-  Arxiv, [Paper]()
+  - Publication: Arxiv, [Paper]()
   - Label: 
   - Summary:
 - [15] 
-  Arxiv, [Paper]()
+  - Publication: Arxiv, [Paper]()
   - Label: 
   - Summary:
-- []
-  
- 
+- [15] 
+  - Publication: Arxiv, [Paper]()
+  - Label: 
+  - Summary:
+- [15] 
+  - Publication: Arxiv, [Paper]()
+  - Label: 
+  - Summary:
+- [15] 
+  - Publication: Arxiv, [Paper]()
+  - Label: 
+  - Summary:
+- [15] 
+  - Publication: Arxiv, [Paper]()
+  - Label: 
+  - Summary:
+- [15] 
+  - Publication: Arxiv, [Paper]()
+  - Label: 
+  - Summary:
+- [15] 
+  - Publication: Arxiv, [Paper]()
+  - Label: 
+  - Summary:
+- [15] 
+  - Publication: Arxiv, [Paper]()
+  - Label: 
+  - Summary:
+- [15] 
+  - Publication: Arxiv, [Paper]()
+  - Label: 
+  - Summary:
+- [15] 
+  - Publication: Arxiv, [Paper]()
+  - Label: 
+  - Summary:
+- [15] 
+  - Publication: Arxiv, [Paper]()
+  - Label: 
+  - Summary: 
+- [15] 
+  - Publication: Arxiv, [Paper]()
+  - Label: 
+  - Summary:
+- [15] 
+  - Publication: Arxiv, [Paper]()
+  - Label: 
+  - Summary:
+- [15] 
+  - Publication: Arxiv, [Paper]()
+  - Label: 
+  - Summary:
+- [15] 
+  - Publication: Arxiv, [Paper]()
+  - Label: 
+  - Summary:
+- [15] 
+  - Publication: Arxiv, [Paper]()
+  - Label: 
+  - Summary:
+- [15] 
+  - Publication: Arxiv, [Paper]()
+  - Label: 
+  - Summary:
+- [15] 
+  - Publication: Arxiv, [Paper]()
+  - Label: 
+  - Summary:
+- [15] 
+  - Publication: Arxiv, [Paper]()
+  - Label: 
+  - Summary:
+- [15] 
+  - Publication: Arxiv, [Paper]()
+  - Label: 
+  - Summary:
+- [15] 
+  - Publication: Arxiv, [Paper]()
+  - Label: 
+  - Summary: 
+- [15] 
+  - Publication: Arxiv, [Paper]()
+  - Label: 
+  - Summary:
+- [15] 
+  - Publication: Arxiv, [Paper]()
+  - Label: 
+  - Summary:
+- [15] 
+  - Publication: Arxiv, [Paper]()
+  - Label: 
+  - Summary:
+- [15] 
+  - Publication: Arxiv, [Paper]()
+  - Label: 
+  - Summary:
+- [15] 
+  - Publication: Arxiv, [Paper]()
+  - Label: 
+  - Summary:
+- [15] 
+  - Publication: Arxiv, [Paper]()
+  - Label: 
+  - Summary:
+- [15] 
+  - Publication: Arxiv, [Paper]()
+  - Label: 
+  - Summary:
+
+
 ## Models
 | Name     | Paper         |
 |----------|--------------|
