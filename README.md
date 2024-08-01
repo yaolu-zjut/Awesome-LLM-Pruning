@@ -53,7 +53,7 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2312.13558), [Code](https://github.com/pratyushasharma/laser)
   - Label: Other, Low-Rank Decomposition
   - Summary: This paper selectively removing higher-order components found by SVD of the weight matrices.
-- [10] RIA: Plug-and-Play: An Efficient Post-Training Pruning Method for Large Language Models
+- [10] Plug-and-Play: An Efficient Post-Training Pruning Method for Large Language Models
   - Publication: ICLR 2024, [Paper](https://openreview.net/pdf?id=Tr0lPx9woF), [Code](https://github.com/biomedical-cybernetics/Relative-importance-and-activation-pruning)
   - Label:
   - Summary: 
@@ -70,7 +70,7 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Label:  
   - Summary:
 - [14] 
-  - Publication: Arxiv, [Paper]()
+  - Publication: Arxiv
   - Label: 
   - Summary:
 - [15] Pruning Large Language Models via Accuracy Predictor
