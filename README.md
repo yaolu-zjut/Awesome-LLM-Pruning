@@ -93,8 +93,8 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2312.17244)
   - Label: 
   - Summary:
-- [20] 
-  - Publication: Arxiv, [Paper]()
+- [20] The Optimal BERT Surgeon: Scalable and Accurate Second-Order Pruning for Large Language Models
+  - Publication: EMNLP 2022, [Paper](https://arxiv.org/pdf/2203.07259), [Code](https://github.com/neuralmagic/sparseml/tree/main/research/optimal_BERT_surgeon_oBERT)
   - Label: 
   - Summary:
 - [15] 
