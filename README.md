@@ -149,12 +149,12 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2310.05015)
   - Label: 
   - Summary:
-- [15] Structural Pruning of Large Language Models via Neural Architecture Search
+- [34] Structural Pruning of Large Language Models via Neural Architecture Search
   - Publication: Arxiv, [Paper](https://assets.amazon.science/40/08/3b42096c4427a35fee1ea612401d/structural-pruning-of-large-language-models-via-neural-architecture-search.pdf)
   - Label: 
   - Summary:
-- [15] 
-  - Publication: Arxiv, [Paper]()
+- [35] Fluctuation-Based Adaptive Structured Pruning for Large Language Models
+  - Publication: AAAI 2024, [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28960)
   - Label: 
   - Summary: 
 - [15] 
