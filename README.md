@@ -154,7 +154,7 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Label: 
   - Summary:
 - [35] Fluctuation-Based Adaptive Structured Pruning for Large Language Models
-  - Publication: AAAI 2024, [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28960)
+  - Publication: AAAI 2024, [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28960), [Code](https://github.com/CASIA-IVA-Lab/FLAP)
   - Label: 
   - Summary: 
 - [15] 
