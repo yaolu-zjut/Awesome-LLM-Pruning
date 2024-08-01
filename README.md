@@ -157,9 +157,9 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: AAAI 2024, [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28960), [Code](https://github.com/CASIA-IVA-Lab/FLAP)
   - Label: 
   - Summary: 
-- [15] 
-  - Publication: Arxiv, [Paper]()
-  - Label: 
+- [36] The Unreasonable Ineffectiveness of the Deeper Layers
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2403.17887)
+  - Label: Structure Pruning, Layer Pruning
   - Summary:
 - [15] 
   - Publication: Arxiv, [Paper]()
