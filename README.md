@@ -161,8 +161,8 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2403.17887)
   - Label: Structure Pruning, Layer Pruning
   - Summary:
-- [15] 
-  - Publication: Arxiv, [Paper]()
+- [37] Junk DNA Hypothesis: Pruning Small Pre-Trained Weights Irreversibly and Monotonically Impairs “Difficult" Downstream Tasks in LLMs 
+  - Publication: ICML 2024, [Paper](https://openreview.net/pdf?id=EfUrTeuUfy), [Code](https://github.com/VITA-Group/Junk_DNA_Hypothesis)
   - Label: 
   - Summary:
 - [15] 
