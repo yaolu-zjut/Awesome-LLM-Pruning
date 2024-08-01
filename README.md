@@ -165,8 +165,8 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: ICML 2024, [Paper](https://openreview.net/pdf?id=EfUrTeuUfy), [Code](https://github.com/VITA-Group/Junk_DNA_Hypothesis)
   - Label: 
   - Summary:
-- [15] 
-  - Publication: Arxiv, [Paper]()
+- [38] Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning
+  - Publication: ICLR 2024, [Paper](https://arxiv.org/pdf/2310.06694)
   - Label: 
   - Summary:
 - [15] 
