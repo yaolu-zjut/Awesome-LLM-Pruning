@@ -185,6 +185,69 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2407.11681)
   - Label: 
   - Summary:
+- [43] Optimization-based Structural Pruning for Large Language Models without Back-Propagation
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2406.10576)
+  - Label: 
+  - Summary:
+- [43] 
+  - Publication: Arxiv, [Paper]()
+  - Label: 
+  - Summary:
+- [43] 
+  - Publication: Arxiv, [Paper]()
+  - Label: 
+  - Summary:
+- [43] 
+  - Publication: Arxiv, [Paper]()
+  - Label: 
+  - Summary:
+- [43] 
+  - Publication: Arxiv, [Paper]()
+  - Label: 
+  - Summary:
+- [43] 
+  - Publication: Arxiv, [Paper]()
+  - Label: 
+  - Summary:
+- [43] 
+  - Publication: Arxiv, [Paper]()
+  - Label: 
+  - Summary:
+- [43] 
+  - Publication: Arxiv, [Paper]()
+  - Label: 
+  - Summary:
+- [43] 
+  - Publication: Arxiv, [Paper]()
+  - Label: 
+  - Summary:
+- [43] 
+  - Publication: Arxiv, [Paper]()
+  - Label: 
+  - Summary:
+- [43] 
+  - Publication: Arxiv, [Paper]()
+  - Label: 
+  - Summary:
+- [43] 
+  - Publication: Arxiv, [Paper]()
+  - Label: 
+  - Summary:
+- [43] 
+  - Publication: Arxiv, [Paper]()
+  - Label: 
+  - Summary:
+- [43] 
+  - Publication: Arxiv, [Paper]()
+  - Label: 
+  - Summary:
+- [43] 
+  - Publication: Arxiv, [Paper]()
+  - Label: 
+  - Summary:
+
+
+
 
 
 ## Models
