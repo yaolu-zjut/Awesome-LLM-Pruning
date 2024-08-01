@@ -63,6 +63,18 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 - [12] LoRAP: Transformer Sub-Layers Deserve Differentiated Structured Compression for Large Language Models
   Arxiv, [Paper](https://arxiv.org/pdf/2404.09695)
   - Label: Other, Low-Rank Decomposition
+  - Summary:
+- [13] Structured Pruning for Large Language Models Using Coupled Components Elimination and Minor Fine-tuning
+  NAACL 2024 findings, [Paper](https://aclanthology.org/2024.findings-naacl.1.pdf)
+  - Label: 
+  - Summary:
+- [14] 
+  Arxiv, [Paper]()
+  - Label: 
+  - Summary:
+- [15] 
+  Arxiv, [Paper]()
+  - Label: 
   - Summary: 
   
 ## Fine-tuning methods
