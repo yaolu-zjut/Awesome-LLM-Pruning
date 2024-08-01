@@ -129,23 +129,23 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: Arxiv, [Paper](https://openreview.net/pdf?id=rO62BY3dYc)
   - Label: 
   - Summary:
-- [15] 
+- [29] The Need for Speed: Pruning Transformers with One Recipe
+  - Publication: ICLR 2024, [Paper](https://arxiv.org/pdf/2403.17921), [Code](https://github.com/Skhaki18/optin-transformer-pruning)
+  - Label: 
+  - Summary:
+- [30] Differentiable Model Scaling using Differentiable Topk
+  - Publication: ICML 2024, [Paper](https://arxiv.org/pdf/2405.07194)
+  - Label: 
+  - Summary:
+- [31] 
   - Publication: Arxiv, [Paper]()
   - Label: 
   - Summary:
-- [15] 
+- [32] 
   - Publication: Arxiv, [Paper]()
   - Label: 
   - Summary:
-- [15] 
-  - Publication: Arxiv, [Paper]()
-  - Label: 
-  - Summary:
-- [15] 
-  - Publication: Arxiv, [Paper]()
-  - Label: 
-  - Summary:
-- [15] 
+- [33] 
   - Publication: Arxiv, [Paper]()
   - Label: 
   - Summary:
