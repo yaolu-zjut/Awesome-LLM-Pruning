@@ -59,6 +59,10 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 - [11] Wanda: A Simple and Effective Pruning Approach For Large Language Models
   ICLR 2024, [Paper](https://arxiv.org/pdf/2306.11695.pdf), [Code](https://github.com/locuslab/wanda)
   - Label:
+  - Summary:
+- [12] LoRAP: Transformer Sub-Layers Deserve Differentiated Structured Compression for Large Language Models
+  Arxiv, [Paper](https://arxiv.org/pdf/2404.09695)
+  - Label: Other, Low-Rank Decomposition
   - Summary: 
   
 ## Fine-tuning methods
