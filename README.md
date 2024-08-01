@@ -145,8 +145,8 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: ICML 2024, [Paper](https://arxiv.org/pdf/2406.10260)
   - Label: 
   - Summary:
-- [33] 
-  - Publication: Arxiv, [Paper]()
+- [33] Compresso: Structured Pruning with Collaborative Prompting Learns Compact Large Language Models
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2310.05015)
   - Label: 
   - Summary:
 - [15] 
