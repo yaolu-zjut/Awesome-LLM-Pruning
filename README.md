@@ -82,7 +82,7 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2310.18356)
   - Label: Loss-based Pruning
   - Summary:
- - [17] APT: Adaptive Pruning and Tuning Pretrained Language Models for Efficient Training and Inference
+- [17] APT: Adaptive Pruning and Tuning Pretrained Language Models for Efficient Training and Inference
   - Publication: ICML 2024 Oral, [Paper](https://arxiv.org/pdf/2401.12200), [Code](https://github.com/ROIM1998/APT)
   - Label: Loss-based Pruning
   - Summary:
