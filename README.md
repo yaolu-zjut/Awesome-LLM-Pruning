@@ -25,27 +25,35 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 > Unstructured pruning involves zeroing out individual weights, resulting in higher sparsity ratios while maintaining better performance. However, without specialized hardware support, it can be challenging to achieve inference speedup with this method.
 - [1] Wanda: A Simple and Effective Pruning Approach For Large Language Models
   - Publication: ICLR 2024, [Paper](https://arxiv.org/pdf/2306.11695.pdf), [Code](https://github.com/locuslab/wanda)
-  - Label:
+  - Label: Magnitude-based Pruning
   - Summary:
 - [2] E-Sparse: Boosting the Large Language Model Inference through Entropy-based N:M Sparsity 
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2310.15929)
-  - Label: 
-  - Summary:  
+  - Label: Magnitude-based Pruning
+  - Summary:
+- [3] Plug-and-Play: An Efficient Post-Training Pruning Method for Large Language Models
+  - Publication: ICLR 2024, [Paper](https://openreview.net/pdf?id=Tr0lPx9woF), [Code](https://github.com/biomedical-cybernetics/Relative-importance-and-activation-pruning)
+  - Label: Magnitude-based Pruning
+  - Summary: 
 - [3] SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot
   - Publication: ICML23, [Paper](https://proceedings.mlr.press/v202/frantar23a/frantar23a.pdf)
-  - Label:
+  - Label: Loss-based Pruning
   - Summary:
 - [4] One-Shot Sensitivity-Aware Mixed Sparsity Pruning for Large Language Models
   - Publication: ICASSP 2024, [Paper](https://ieeexplore.ieee.org/abstract/document/10445737)
-  - Label: 
+  - Label: Loss-based Pruning
   - Summary:
 - [5] Beyond Size: How Gradients Shape Pruning Decisions in Large Language Models
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2311.04902), [Code](https://github.com/VILA-Lab/GBLM-Pruner)
-  - Label: 
+  - Label: Loss-based Pruning
   - Summary:
 - [6] Pushing Gradient towards Zero: A Novel Pruning Method for Large Language Models
   - Publication: Arxiv, [Paper](https://openreview.net/pdf?id=IU4L7wiwxw)
-  - Label: 
+  - Label: Loss-based Pruning
+  - Summary:
+- [19] The LLM Surgeon
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2312.17244)
+  - Label: Loss-based Pruning
   - Summary:
 
 ### Structured Pruning
@@ -100,10 +108,7 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2312.13558), [Code](https://github.com/pratyushasharma/laser)
   - Label: Other, Low-Rank Decomposition
   - Summary: This paper selectively removing higher-order components found by SVD of the weight matrices.
-- [10] Plug-and-Play: An Efficient Post-Training Pruning Method for Large Language Models
-  - Publication: ICLR 2024, [Paper](https://openreview.net/pdf?id=Tr0lPx9woF), [Code](https://github.com/biomedical-cybernetics/Relative-importance-and-activation-pruning)
-  - Label:
-  - Summary: 
+
 
 - [12] LoRAP: Transformer Sub-Layers Deserve Differentiated Structured Compression for Large Language Models
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2404.09695)
@@ -130,10 +135,7 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: Conference on Parsimony and Learning 2024, [Paper](https://proceedings.mlr.press/v234/kurtic24a/kurtic24a.pdf)
   - Label: 
   - Summary:
-- [19] The LLM Surgeon
-  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2312.17244)
-  - Label: 
-  - Summary:
+
 - [20] The Optimal BERT Surgeon: Scalable and Accurate Second-Order Pruning for Large Language Models
   - Publication: EMNLP 2022, [Paper](https://arxiv.org/pdf/2203.07259), [Code](https://github.com/neuralmagic/sparseml/tree/main/research/optimal_BERT_surgeon_oBERT)
   - Label: 
