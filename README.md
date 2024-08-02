@@ -308,11 +308,11 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2406.17296)
   - Label: 
   - Summary:
-- [62] 
-  - Publication: Arxiv, [Paper]()
+- [62] Structured Pruning for Efficient Generative Pre-trained Language Models
+  - Publication: ACL 2023 Findings, [Paper](https://aclanthology.org/2023.findings-acl.692.pdf)
   - Label: 
   - Summary:
-- [63] A Comprehensive Survey of Compression Algorithms for Language Models
+- [63] 
   - Publication: Arxiv, [Paper]()
   - Label: 
   - Summary:
