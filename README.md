@@ -25,6 +25,10 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2308.07633)
   - Label: Quantization, Pruning, Knowledge Distillation, Low-Rank Factorization 
   - Summary:
+- [3] A Comprehensive Survey of Compression Algorithms for Language Models
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2401.15347)
+  - Label: 
+  - Summary:
 
 
 ### Unstructured Pruning
@@ -308,7 +312,7 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: Arxiv, [Paper]()
   - Label: 
   - Summary:
-- [63] 
+- [63] A Comprehensive Survey of Compression Algorithms for Language Models
   - Publication: Arxiv, [Paper]()
   - Label: 
   - Summary:
