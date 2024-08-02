@@ -79,7 +79,11 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 - [19] Flash-LLM: Enabling Cost-Effective and Highly-Efficient Large Generative Model Inference with Unstructured Sparsity
   - Publication: Proceedings of the VLDB Endowment, [Paper](https://dl.acm.org/doi/10.14778/3626292.3626303)
   - Label: Hardware Support
-  - Summary: 
+  - Summary:
+- [3] Prune and tune: Improving efficient pruning techniques for massive language models
+  - Publication: ICLR 2023 Tiny Paper, [Paper](https://openreview.net/pdf?id=cKlgcx7nSZ)
+  - Label: 
+  - Summary:
 
 
 
