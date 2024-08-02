@@ -109,8 +109,19 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 - [15] Gradient-Free Adaptive Global Pruning for Pre-trained Language Models
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2402.17946v1), [Code](https://github.com/BaiTheBest/SparseLLM)
   - Label: 
+  - Summary:
+- [16] Fast and Effective Weight Update for Pruned Large Language Models
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2401.02938), [Code](https://github.com/fmfi-compbio/admm-pruning)
+  - Label: 
+  - Summary:
+- [17] COPAL: Continual Pruning in Large Language Generative Models
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2405.02347v1)
+  - Label: 
   - Summary: 
-
+- [18] Dependency-Aware Semi-Structured Sparsity of GLU Variants in Large Language Models
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2405.01943v1)
+  - Label: 
+  - Summary: 
 ### Structured Pruning
 > Structured pruning achieves inference speedup by removing entire network structures, such as , and . As a result, the sparsity ratios in structured pruned models are typically lower than those in unstructured ones.
 - [1] Fluctuation-Based Adaptive Structured Pruning for Large Language Models
