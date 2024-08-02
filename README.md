@@ -29,7 +29,10 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2401.15347)
   - Label: Pruning, Quantization, Knowledge Distillation, Low-Rank Factorization, Parameter Sharing, Efficient Architecture Design
   - Summary:
-
+- [4] Faster and Lighter LLMs: A Survey on Current Challenges and Way Forward
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2402.01799), [Code](https://github.com/nyunAI/Faster-LLM-Survey)
+  - Label: 
+  - Summary: 
 
 ### Unstructured Pruning
 > Unstructured pruning involves zeroing out individual weights, resulting in higher sparsity ratios while maintaining better performance. However, without specialized hardware support, it can be challenging to achieve inference speedup with this method.
