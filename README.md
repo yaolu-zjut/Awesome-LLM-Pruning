@@ -74,7 +74,10 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2305.11627)
   - Label: Loss-based Pruning
   - Summary: LLM-Pruner details a pruning algorithm that evaluates neuron importance within each layer. Based on the pruning algorithm，It removes neurons with minimal contribution to optimize model efficiency.
-
+- [5] LoRAShear: Efficient Large Language Model Structured Pruning and Knowledge Recovery
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2310.18356)
+  - Label: Loss-based Pruning
+  - Summary:
 
 
 - [1] Shortened LLaMA: Depth Pruning for Large Language Models with Comparison of Retraining Methods
@@ -116,10 +119,7 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: NAACL 2024 findings, [Paper](https://aclanthology.org/2024.findings-naacl.1.pdf)
   - Label:  
   - Summary:
-- [14] LoRAShear: Efficient Large Language Model Structured Pruning and Knowledge Recovery
-  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2310.18356)
-  - Label: 
-  - Summary:
+
 - [15] Pruning Large Language Models via Accuracy Predictor
   - Publication: ICASSP 2024, [Paper](https://arxiv.org/pdf/2309.09507)
   - Label: 
