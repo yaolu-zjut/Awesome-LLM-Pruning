@@ -19,6 +19,10 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 - [1] Model Compression and Efficient Inference for Large Language Models: A Survey
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2402.09748)
   - Summary: Quantization, Pruning, Knowledge Distillation, Compact Architecture Design, Dynamic Networks
+- [2] E-Sparse: Boosting the Large Language Model Inference through Entropy-based N:M Sparsity 
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2310.15929)
+  - Label: 
+  - Summary: 
 
 ### Unstructured Pruning
 > Unstructured pruning involves zeroing out individual weights, resulting in higher sparsity ratios while maintaining better performance. However, without specialized hardware support, it can be challenging to achieve inference speedup with this method.
@@ -123,10 +127,7 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: ICLR 2024, [Paper](https://arxiv.org/pdf/2310.01382), [Code](https://github.com/VITA-Group/llm-kick)
   - Label: 
   - Summary:
-- [25] E-Sparse: Boosting the Large Language Model Inference through Entropy-based N:M Sparsity 
-  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2310.15929)
-  - Label: 
-  - Summary: 
+
 - [26] The Emergence of Essential Sparsity in Large Pre-trained Models: The Weights that Matter 
   - Publication: NeurIPS 2023, [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/7a69ab48efcbb0153e72d458fb091969-Paper-Conference.pdf)
   - Label: 
