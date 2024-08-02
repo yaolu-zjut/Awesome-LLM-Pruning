@@ -446,7 +446,7 @@ If you find this project useful for your research, please use the following BibT
 ```python
 @misc{,
   author={},
-  title={Awesome Dataset Distillation},
+  title={Awesome LLM Pruning},
   howpublished={},
   year={}
 }
