@@ -29,11 +29,11 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 > Unstructured pruning involves zeroing out individual weights, resulting in higher sparsity ratios while maintaining better performance. However, without specialized hardware support, it can be challenging to achieve inference speedup with this method.
 - [1] Wanda: A Simple and Effective Pruning Approach For Large Language Models
   - Publication: ICLR 2024, [Paper](https://arxiv.org/pdf/2306.11695.pdf), [Code](https://github.com/locuslab/wanda)
-  - Label: Magnitude-based Pruning
+  - Label: Magnitude-based Pruning, N:M sparsity
   - Summary:
 - [2] E-Sparse: Boosting the Large Language Model Inference through Entropy-based N:M Sparsity 
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2310.15929)
-  - Label: Magnitude-based Pruning
+  - Label: Magnitude-based Pruning, N:M sparsity
   - Summary:
 - [3] Plug-and-Play: An Efficient Post-Training Pruning Method for Large Language Models
   - Publication: ICLR 2024, [Paper](https://openreview.net/pdf?id=Tr0lPx9woF), [Code](https://github.com/biomedical-cybernetics/Relative-importance-and-activation-pruning)
@@ -41,7 +41,7 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Summary: 
 - [3] SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot
   - Publication: ICML23, [Paper](https://proceedings.mlr.press/v202/frantar23a/frantar23a.pdf)
-  - Label: Loss-based Pruning
+  - Label: Loss-based Pruning, N:M sparsity
   - Summary:
 - [4] One-Shot Sensitivity-Aware Mixed Sparsity Pruning for Large Language Models
   - Publication: ICASSP 2024, [Paper](https://ieeexplore.ieee.org/abstract/document/10445737)
@@ -100,16 +100,18 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: ICASSP 2024, [Paper](https://arxiv.org/pdf/2309.09507)
   - Label: Loss-based Pruning
   - Summary:
-
-
-
-
-
-
 - [1] Shortened LLaMA: Depth Pruning for Large Language Models with Comparison of Retraining Methods
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2402.02834), [Code](https://github.com/Nota-NetsPresso/shortened-llm)
-  - Label: Structure Pruning, Depth Pruning
+  - Label: Loss-based Pruning, Layer Pruning
   - Summary: 
+- [38] Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning
+  - Publication: ICLR 2024, [Paper](https://arxiv.org/pdf/2310.06694)
+  - Label: Regularization-based Pruning
+  - Summary:
+
+
+
+
 - [2] ShortGPT:Layers in Large Language Models are More Redundant Than You Expect
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2403.03853)
   - Label: Structure Pruning, Depth Pruning
@@ -145,8 +147,6 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: NAACL 2024 findings, [Paper](https://aclanthology.org/2024.findings-naacl.1.pdf)
   - Label:  
   - Summary:
-
-
 - [18] How to Prune Your Language Model: Recovering Accuracy on the “Sparsity May Cry” Benchmark
   - Publication: Conference on Parsimony and Learning 2024, [Paper](https://proceedings.mlr.press/v234/kurtic24a/kurtic24a.pdf)
   - Label: 
@@ -212,10 +212,7 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: ICML 2024, [Paper](https://openreview.net/pdf?id=EfUrTeuUfy), [Code](https://github.com/VITA-Group/Junk_DNA_Hypothesis)
   - Label: 
   - Summary:
-- [38] Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning
-  - Publication: ICLR 2024, [Paper](https://arxiv.org/pdf/2310.06694)
-  - Label: 
-  - Summary:
+
 - [39] BESA: Pruning Large Language Models with Blockwise Parameter-Efficient Sparsity Allocation Outlier 
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2402.16880)
   - Label: 
