@@ -320,12 +320,12 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: LREC-COLING 2024, [Paper](https://aclanthology.org/2024.lrec-main.1162.pdf), [Code](https://github.com/applewpj/P-pruning)
   - Label: 
   - Summary:
-- [64] 
-  - Publication: Arxiv, [Paper]()
+- [64] OSSCAR: One-Shot Structured Pruning in Vision and Language Models with Combinatorial Optimization
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2403.12983)
   - Label: 
   - Summary:
-- [64] 
-  - Publication: Arxiv, [Paper]()
+- [64] NASH: A Simple Unified Framework of Structured Pruning for Accelerating Encoder-Decoder Language Models
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2310.10054)
   - Label: 
   - Summary:
 - [64] 
