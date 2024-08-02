@@ -41,6 +41,10 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2401.08092), [Website](https://github.com/UbiquitousLearning/Efficient_Foundation_Model_Survey)
   - Label: Large Language Model, Multimodal Large Language Model, Resource-efficient Architectures,  Resource-efficient Algorithms, Resource-efficient Systems
   - Summary:
+- [7] Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2401.00625), [Code](https://github.com/tiingweii-shii/Awesome-Resource-Efficient-LLM-Papers)
+  - Label: 
+  - Summary:
  
   
 
@@ -349,10 +353,7 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Label: 
   - Summary:
 
-- [64] 
-  - Publication: Arxiv, [Paper]()
-  - Label: 
-  - Summary:
+
 - [64] 
   - Publication: Arxiv, [Paper]()
   - Label: 
