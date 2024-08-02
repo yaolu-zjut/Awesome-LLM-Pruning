@@ -59,6 +59,13 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2312.17244)
   - Label: Loss-based Pruning
   - Summary:
+- [19] Dynamic Sparse No Training: Training-Free Fine-tuning for Sparse LLMs
+  - Publication: ICLR 2024, [Paper]([https://arxiv.org/pdf/2312.17244](https://openreview.net/pdf?id=1ndDmZdT4g)), [Code](https://github.com/zyxxmu/DSnoT)
+  - Label: 
+  - Summary:
+
+
+
 
 ### Structured Pruning
 > Structured pruning achieves inference speedup by removing entire network structures, such as , and . As a result, the sparsity ratios in structured pruned models are typically lower than those in unstructured ones.
