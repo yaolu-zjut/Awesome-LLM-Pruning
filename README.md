@@ -78,6 +78,15 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2310.18356)
   - Label: Loss-based Pruning
   - Summary:
+ - [17] APT: Adaptive Pruning and Tuning Pretrained Language Models for Efficient Training and Inference
+  - Publication: ICML 2024 Oral, [Paper](https://arxiv.org/pdf/2401.12200), [Code](https://github.com/ROIM1998/APT)
+  - Label: Loss-based Pruning
+  - Summary:
+
+
+
+
+
 
 
 - [1] Shortened LLaMA: Depth Pruning for Large Language Models with Comparison of Retraining Methods
@@ -125,10 +134,6 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Label: 
   - Summary:
 
-- [17] APT: Adaptive Pruning and Tuning Pretrained Language Models for Efficient Training and Inference
-  - Publication: ICML 2024 Oral, [Paper](https://arxiv.org/pdf/2401.12200), [Code](https://github.com/ROIM1998/APT)
-  - Label: 
-  - Summary:
 - [18] How to Prune Your Language Model: Recovering Accuracy on the “Sparsity May Cry” Benchmark
   - Publication: Conference on Parsimony and Learning 2024, [Paper](https://proceedings.mlr.press/v234/kurtic24a/kurtic24a.pdf)
   - Label: 
