@@ -139,10 +139,6 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: ICLR 2024, [Paper](https://arxiv.org/pdf/2310.06694)
   - Label: Regularization-based Pruning
   - Summary:
-
-
-
-
 - [2] ShortGPT:Layers in Large Language Models are More Redundant Than You Expect
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2403.03853)
   - Label: Structure Pruning, Depth Pruning
@@ -163,13 +159,10 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2406.10594), [Code](https://github.com/MrGGLS/BlockPruner)
   - Label: Structure Pruning, 
   - Summary: BlockPruner segments each Transformer layer into MHA and MLP blocks. It then assesses the importance of these blocks using perplexity measures and applies a heuristic search for iterative pruning.
-
 - [9] The Truth is in There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2312.13558), [Code](https://github.com/pratyushasharma/laser)
   - Label: Other, Low-Rank Decomposition
   - Summary: This paper selectively removing higher-order components found by SVD of the weight matrices.
-
-
 - [12] LoRAP: Transformer Sub-Layers Deserve Differentiated Structured Compression for Large Language Models
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2404.09695)
   - Label: Other, Low-Rank Decomposition
@@ -182,17 +175,14 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: Conference on Parsimony and Learning 2024, [Paper](https://proceedings.mlr.press/v234/kurtic24a/kurtic24a.pdf)
   - Label: 
   - Summary:
-
 - [22] SLEB: Streamlining LLMs through Redundancy Verification and Elimination of Transformer Blocks
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2402.09025)
   - Label: 
   - Summary:
-
 - [24] Compressing LLMs: The Truth is Rarely Pure and Never Simple
   - Publication: ICLR 2024, [Paper](https://arxiv.org/pdf/2310.01382), [Code](https://github.com/VITA-Group/llm-kick)
   - Label: 
   - Summary:
-
 - [26] The Emergence of Essential Sparsity in Large Pre-trained Models: The Weights that Matter 
   - Publication: NeurIPS 2023, [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/7a69ab48efcbb0153e72d458fb091969-Paper-Conference.pdf)
   - Label: 
@@ -229,7 +219,6 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: Arxiv, [Paper](https://assets.amazon.science/40/08/3b42096c4427a35fee1ea612401d/structural-pruning-of-large-language-models-via-neural-architecture-search.pdf)
   - Label: 
   - Summary:
-
 - [36] The Unreasonable Ineffectiveness of the Deeper Layers
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2403.17887)
   - Label: Structure Pruning, Layer Pruning
@@ -238,7 +227,6 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: ICML 2024, [Paper](https://openreview.net/pdf?id=EfUrTeuUfy), [Code](https://github.com/VITA-Group/Junk_DNA_Hypothesis)
   - Label: 
   - Summary:
-
 - [39] BESA: Pruning Large Language Models with Blockwise Parameter-Efficient Sparsity Allocation Outlier 
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2402.16880)
   - Label: 
@@ -287,7 +275,6 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2406.05955)
   - Label: 
   - Summary:
-
 - [52] Sparsity May Cry: Let Us Fail (Current) Sparse Neural Networks Together!
   - Publication: ICLR 2023, [Paper](https://arxiv.org/pdf/2303.02141)
   - Label: 
@@ -352,10 +339,8 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: ACL 2024 Findings, [Paper](https://arxiv.org/pdf/2305.18403)
   - Label: 
   - Summary:
-
-
-- [64] 
-  - Publication: Arxiv, [Paper]()
+- [64] Not all Layers of LLMs are Necessary during Inference
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2403.02181)
   - Label: 
   - Summary:
 - [64] 
