@@ -279,10 +279,6 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: ICLR 2023, [Paper](https://arxiv.org/pdf/2303.02141)
   - Label: 
   - Summary:
-- [53] Compressing large language models by streamlining the unimportant layer
-  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2403.19135)
-  - Label: Structure Pruning, Layer Pruning
-  - Summary:
 - [54] FinerCut: Finer-grained Interpretable Layer Pruning for Large Language Models
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2405.18218)
   - Label: 
@@ -343,9 +339,9 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2403.02181)
   - Label: 
   - Summary:
-- [64] 
-  - Publication: Arxiv, [Paper]()
-  - Label: 
+- [64] Streamlining Redundant Layers to Compress Large Language Models
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2403.19135)
+  - Label: Structure Pruning, Layer Pruning
   - Summary:
 - [64] 
   - Publication: Arxiv, [Paper]()
