@@ -84,6 +84,10 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: ICLR 2023 Tiny Paper, [Paper](https://openreview.net/pdf?id=cKlgcx7nSZ)
   - Label: 
   - Summary:
+- [20] The Optimal BERT Surgeon: Scalable and Accurate Second-Order Pruning for Large Language Models
+  - Publication: EMNLP 2022, [Paper](https://arxiv.org/pdf/2203.07259), [Code](https://github.com/neuralmagic/sparseml/tree/main/research/optimal_BERT_surgeon_oBERT)
+  - Label: 
+  - Summary:
 
 
 
@@ -166,11 +170,6 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Summary:
 - [18] How to Prune Your Language Model: Recovering Accuracy on the “Sparsity May Cry” Benchmark
   - Publication: Conference on Parsimony and Learning 2024, [Paper](https://proceedings.mlr.press/v234/kurtic24a/kurtic24a.pdf)
-  - Label: 
-  - Summary:
-
-- [20] The Optimal BERT Surgeon: Scalable and Accurate Second-Order Pruning for Large Language Models
-  - Publication: EMNLP 2022, [Paper](https://arxiv.org/pdf/2203.07259), [Code](https://github.com/neuralmagic/sparseml/tree/main/research/optimal_BERT_surgeon_oBERT)
   - Label: 
   - Summary:
 
