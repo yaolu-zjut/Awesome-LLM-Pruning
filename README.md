@@ -201,47 +201,47 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2402.09773)
   - Label: 
   - Summary:
-- [43] 
+- [47] MoreauPruner: Robust Pruning of Large Language Models against Weight Perturbations 
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2406.07017), [Code](https://github.com/ShiningSord/MoreauPruner)
+  - Label: 
+  - Summary:
+- [48] Large Language Model Pruning 
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2406.00030)
+  - Label: 
+  - Summary:
+- [49] ShadowLLM: Predictor-based Contextual Sparsity for Large Language Models 
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2406.16635), [Code](https://github.com/abdelfattah-lab/shadow_llm/)
+  - Label: 
+  - Summary:
+- [50] 
   - Publication: Arxiv, [Paper]()
   - Label: 
   - Summary:
-- [43] 
+- [51] 
   - Publication: Arxiv, [Paper]()
   - Label: 
   - Summary:
-- [43] 
+- [52] 
   - Publication: Arxiv, [Paper]()
   - Label: 
   - Summary:
-- [43] 
+- [53] 
   - Publication: Arxiv, [Paper]()
   - Label: 
   - Summary:
-- [43] 
+- [54] 
   - Publication: Arxiv, [Paper]()
   - Label: 
   - Summary:
-- [43] 
+- [55] 
   - Publication: Arxiv, [Paper]()
   - Label: 
   - Summary:
-- [43] 
+- [56] 
   - Publication: Arxiv, [Paper]()
   - Label: 
   - Summary:
-- [43] 
-  - Publication: Arxiv, [Paper]()
-  - Label: 
-  - Summary:
-- [43] 
-  - Publication: Arxiv, [Paper]()
-  - Label: 
-  - Summary:
-- [43] 
-  - Publication: Arxiv, [Paper]()
-  - Label: 
-  - Summary:
-- [43] 
+- [57] 
   - Publication: Arxiv, [Paper]()
   - Label: 
   - Summary:
