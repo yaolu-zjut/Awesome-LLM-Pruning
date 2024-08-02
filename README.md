@@ -60,10 +60,13 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Label: Loss-based Pruning
   - Summary:
 - [19] Dynamic Sparse No Training: Training-Free Fine-tuning for Sparse LLMs
-  - Publication: ICLR 2024, [Paper]([https://arxiv.org/pdf/2312.17244](https://openreview.net/pdf?id=1ndDmZdT4g)), [Code](https://github.com/zyxxmu/DSnoT)
+  - Publication: ICLR 2024, [Paper](https://arxiv.org/pdf/2312.17244](https://openreview.net/pdf?id=1ndDmZdT4g), [Code](https://github.com/zyxxmu/DSnoT)
   - Label: 
-  - Summary:
-
+  - Summary: 
+- [19] Flash-LLM: Enabling Cost-Effective and Highly-Efficient Large Generative Model Inference with Unstructured Sparsity
+  - Publication: Proceedings of the VLDB Endowment, [Paper](https://dl.acm.org/doi/10.14778/3626292.3626303), [Code](https://github.com/zyxxmu/DSnoT)
+  - Label: Hardware Support
+  - Summary: 
 
 
 
