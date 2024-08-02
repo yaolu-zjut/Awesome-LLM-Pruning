@@ -36,7 +36,13 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 - [5] A Survey on Efficient Inference for Large Language Models
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2404.14294)
   - Label:  Data-level Optimization, Model-level Optimization, System-level Optimization
-  - Summary: 
+  - Summary:
+- [6] A survey of resource-efficient llm and multimodal foundation models
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2401.08092), [Website](https://github.com/UbiquitousLearning/Efficient_Foundation_Model_Survey)
+  - Label: Large Language Model, Multimodal Large Language Model, 
+  - Summary:
+ 
+  
 
 ### Unstructured Pruning
 > Unstructured pruning involves zeroing out individual weights, resulting in higher sparsity ratios while maintaining better performance. However, without specialized hardware support, it can be challenging to achieve inference speedup with this method.
@@ -347,7 +353,26 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: Arxiv, [Paper]()
   - Label: 
   - Summary:
-
+- [64] 
+  - Publication: Arxiv, [Paper]()
+  - Label: 
+  - Summary:
+- [64] 
+  - Publication: Arxiv, [Paper]()
+  - Label: 
+  - Summary:
+- [64] 
+  - Publication: Arxiv, [Paper]()
+  - Label: 
+  - Summary:
+- [64] 
+  - Publication: Arxiv, [Paper]()
+  - Label: 
+  - Summary:
+- [64] 
+  - Publication: Arxiv, [Paper]()
+  - Label: 
+  - Summary: 
 
 
 ### Others
