@@ -32,6 +32,10 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 - [4] Faster and Lighter LLMs: A Survey on Current Challenges and Way Forward
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2402.01799), [Code](https://github.com/nyunAI/Faster-LLM-Survey)
   - Label: Pruning, Quantization, Knowledge Distillation, Low-Rank Factorization, System Level Approaches
+  - Summary:
+- [5] A Survey on Efficient Inference for Large Language Models
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2404.14294)
+  - Label:  Data-level Optimization, Model-level Optimization, System-level Optimization
   - Summary: 
 
 ### Unstructured Pruning
@@ -335,10 +339,7 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: ACL 2024 Findings, [Paper](https://arxiv.org/pdf/2305.18403)
   - Label: 
   - Summary:
-- [64] 
-  - Publication: Arxiv, [Paper]()
-  - Label: 
-  - Summary: 
+
 - [64] 
   - Publication: Arxiv, [Paper]()
   - Label: 
