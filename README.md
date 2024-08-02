@@ -21,7 +21,7 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Summary: Quantization, Pruning, Knowledge Distillation, Compact Architecture Design, Dynamic Networks
 
 ### Unstructured Pruning
-The pruning units are individual weights. The weights to be pruned are zeroed out. Unstructured pruning tends to get a higher sparsity ratio and maintain better performance. However, unstructured pruning makes it easy to achieve inference speedup unless with specific handware support.
+Unstructured pruning involves zeroing out individual weights, resulting in higher sparsity ratios while maintaining better performance. However, without specialized hardware support, it can be challenging to achieve inference speedup with this method.
 
 
 ### Structured Pruning
