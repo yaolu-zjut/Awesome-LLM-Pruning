@@ -39,6 +39,14 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: ICASSP 2024, [Paper](https://ieeexplore.ieee.org/abstract/document/10445737)
   - Label: 
   - Summary:
+- [5] Beyond Size: How Gradients Shape Pruning Decisions in Large Language Models
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2311.04902), [Code](https://github.com/VILA-Lab/GBLM-Pruner)
+  - Label: 
+  - Summary:
+- [6] Pushing Gradient towards Zero: A Novel Pruning Method for Large Language Models
+  - Publication: Arxiv, [Paper](https://openreview.net/pdf?id=IU4L7wiwxw)
+  - Label: 
+  - Summary:
 
 ### Structured Pruning
 > Structured pruning achieves inference speedup by removing entire network structures, such as , and . As a result, the sparsity ratios in structured pruned models are typically lower than those in unstructured ones.
@@ -116,18 +124,12 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: EMNLP 2022, [Paper](https://arxiv.org/pdf/2203.07259), [Code](https://github.com/neuralmagic/sparseml/tree/main/research/optimal_BERT_surgeon_oBERT)
   - Label: 
   - Summary:
-- [21] Pushing Gradient towards Zero: A Novel Pruning Method for Large Language Models
-  - Publication: Arxiv, [Paper](https://openreview.net/pdf?id=IU4L7wiwxw)
-  - Label: 
-  - Summary:
+
 - [22] SLEB: Streamlining LLMs through Redundancy Verification and Elimination of Transformer Blocks
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2402.09025)
   - Label: 
   - Summary:
-- [23] Beyond Size: How Gradients Shape Pruning Decisions in Large Language Models
-  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2311.04902), [Code](https://github.com/VILA-Lab/GBLM-Pruner)
-  - Label: 
-  - Summary:
+
 - [24] Compressing LLMs: The Truth is Rarely Pure and Never Simple
   - Publication: ICLR 2024, [Paper](https://arxiv.org/pdf/2310.01382), [Code](https://github.com/VITA-Group/llm-kick)
   - Label: 
