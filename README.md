@@ -253,8 +253,8 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: ICML 2024 Workshop, [Paper](https://arxiv.org/pdf/2407.16286), [Code](https://github.com/shoaibahmed/llm_depth_pruning)
   - Label: Structure Pruning, Layer Pruning
   - Summary:
-- [60] 
-  - Publication: Arxiv, [Paper]()
+- [60] Compact Language Models via Pruning and Knowledge Distillation
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2407.14679)
   - Label: 
   - Summary: 
 - [61] 
