@@ -13,6 +13,7 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 - Tools
 - Questions
 - Citation
+- Acknowledgements
 
 
 ## Papers
@@ -442,7 +443,9 @@ If the statistics are wrong, please don't hesitate to contact us.
 
 ## Citation
 
-
+## Acknowledgements
+Our 
+> [Awesome-LLM-Prune](https://github.com/pprp/Awesome-LLM-Prune?tab=readme-ov-file)
 ## Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=yaolu-zjut/Awesome-LLM-Pruning&type=Date)](https://star-history.com/#yaolu-zjut/Awesome-LLM-Pruning&Date)
 
