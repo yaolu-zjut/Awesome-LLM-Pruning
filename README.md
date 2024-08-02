@@ -62,43 +62,43 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: ICLR 2024, [Paper](https://openreview.net/pdf?id=Tr0lPx9woF), [Code](https://github.com/biomedical-cybernetics/Relative-importance-and-activation-pruning)
   - Label: Magnitude-based Pruning
   - Summary: 
-- [3] SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot
+- [4] SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot
   - Publication: ICML23, [Paper](https://proceedings.mlr.press/v202/frantar23a/frantar23a.pdf)
   - Label: Loss-based Pruning, N:M sparsity
   - Summary:
-- [4] One-Shot Sensitivity-Aware Mixed Sparsity Pruning for Large Language Models
+- [5] One-Shot Sensitivity-Aware Mixed Sparsity Pruning for Large Language Models
   - Publication: ICASSP 2024, [Paper](https://ieeexplore.ieee.org/abstract/document/10445737)
   - Label: Loss-based Pruning
   - Summary:
-- [5] Beyond Size: How Gradients Shape Pruning Decisions in Large Language Models
+- [6] Beyond Size: How Gradients Shape Pruning Decisions in Large Language Models
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2311.04902), [Code](https://github.com/VILA-Lab/GBLM-Pruner)
   - Label: Loss-based Pruning
   - Summary:
-- [6] Pushing Gradient towards Zero: A Novel Pruning Method for Large Language Models
+- [7] Pushing Gradient towards Zero: A Novel Pruning Method for Large Language Models
   - Publication: Arxiv, [Paper](https://openreview.net/pdf?id=IU4L7wiwxw)
   - Label: Loss-based Pruning
   - Summary:
-- [19] The LLM Surgeon
+- [8] The LLM Surgeon
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2312.17244)
   - Label: Loss-based Pruning
   - Summary:
-- [19] Dynamic Sparse No Training: Training-Free Fine-tuning for Sparse LLMs
+- [9] Dynamic Sparse No Training: Training-Free Fine-tuning for Sparse LLMs
   - Publication: ICLR 2024, [Paper](https://openreview.net/pdf?id=1ndDmZdT4g), [Code](https://github.com/zyxxmu/DSnoT)
   - Label: 
   - Summary: 
-- [19] Flash-LLM: Enabling Cost-Effective and Highly-Efficient Large Generative Model Inference with Unstructured Sparsity
+- [10] Flash-LLM: Enabling Cost-Effective and Highly-Efficient Large Generative Model Inference with Unstructured Sparsity
   - Publication: Proceedings of the VLDB Endowment, [Paper](https://dl.acm.org/doi/10.14778/3626292.3626303)
   - Label: Hardware Support
   - Summary:
-- [3] Prune and tune: Improving efficient pruning techniques for massive language models
+- [11] Prune and tune: Improving efficient pruning techniques for massive language models
   - Publication: ICLR 2023 Tiny Paper, [Paper](https://openreview.net/pdf?id=cKlgcx7nSZ)
   - Label: 
   - Summary:
-- [20] The Optimal BERT Surgeon: Scalable and Accurate Second-Order Pruning for Large Language Models
+- [12] The Optimal BERT Surgeon: Scalable and Accurate Second-Order Pruning for Large Language Models
   - Publication: EMNLP 2022, [Paper](https://arxiv.org/pdf/2203.07259), [Code](https://github.com/neuralmagic/sparseml/tree/main/research/optimal_BERT_surgeon_oBERT)
   - Label: 
   - Summary:
-- [64] The Emergence of Essential Sparsity in Large Pre-trained Models: The Weights that Matter
+- [13] The Emergence of Essential Sparsity in Large Pre-trained Models: The Weights that Matter
   - Publication: Arxiv, [Paper](https://openreview.net/pdf?id=bU9hwbsVcy), [Code](https://github.com/VITA-Group/essential_sparsity)
   - Label: 
   - Summary: 
@@ -126,51 +126,51 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2310.18356)
   - Label: Loss-based Pruning
   - Summary:
-- [17] APT: Adaptive Pruning and Tuning Pretrained Language Models for Efficient Training and Inference
+- [6] APT: Adaptive Pruning and Tuning Pretrained Language Models for Efficient Training and Inference
   - Publication: ICML 2024 Oral, [Paper](https://arxiv.org/pdf/2401.12200), [Code](https://github.com/ROIM1998/APT)
   - Label: Loss-based Pruning
   - Summary:
-- [15] Pruning Large Language Models via Accuracy Predictor
+- [7] Pruning Large Language Models via Accuracy Predictor
   - Publication: ICASSP 2024, [Paper](https://arxiv.org/pdf/2309.09507)
   - Label: Loss-based Pruning
   - Summary:
-- [1] Shortened LLaMA: Depth Pruning for Large Language Models with Comparison of Retraining Methods
+- [8] Shortened LLaMA: Depth Pruning for Large Language Models with Comparison of Retraining Methods
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2402.02834), [Code](https://github.com/Nota-NetsPresso/shortened-llm)
   - Label: Loss-based Pruning, Layer Pruning
   - Summary: 
-- [38] Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning
+- [9] Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning
   - Publication: ICLR 2024, [Paper](https://arxiv.org/pdf/2310.06694)
   - Label: Regularization-based Pruning
   - Summary:
-- [2] ShortGPT:Layers in Large Language Models are More Redundant Than You Expect
+- [10] ShortGPT:Layers in Large Language Models are More Redundant Than You Expect
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2403.03853)
   - Label: Structure Pruning, Depth Pruning
   - Summary: ShortGPT propose a metric called Block Influence (BI) as an effective indicator of layer importance. Based on the BI metric, they propose a simple yet effective pruning strategy by removing layers with low BI scores.
-- [3] FoldGPT: Simple and Effective Large Language Model Compression Scheme
+- [11] FoldGPT: Simple and Effective Large Language Model Compression Scheme
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2407.00928)
   - Label:
   - Summary: 
-- [4] Pruning via Merging: Compressing LLMs via Manifold Alignment Based Layer Merging
+- [12] Pruning via Merging: Compressing LLMs via Manifold Alignment Based Layer Merging
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2406.16330)
   - Label:
   - Summary: Structure Pruning, Depth Pruning
-- [5] LaCo: Large Language Model Pruning via Layer Collapse
+- [13] LaCo: Large Language Model Pruning via Layer Collapse
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2402.11187)
   - Label: Structure Pruning, Depth Pruning
   - Summary:
-- [6] BlockPruner: Fine-grained Pruning for Large Language Models
+- [14] BlockPruner: Fine-grained Pruning for Large Language Models
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2406.10594), [Code](https://github.com/MrGGLS/BlockPruner)
   - Label: Structure Pruning, 
   - Summary: BlockPruner segments each Transformer layer into MHA and MLP blocks. It then assesses the importance of these blocks using perplexity measures and applies a heuristic search for iterative pruning.
-- [9] The Truth is in There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction
+- [15] The Truth is in There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2312.13558), [Code](https://github.com/pratyushasharma/laser)
   - Label: Other, Low-Rank Decomposition
   - Summary: This paper selectively removing higher-order components found by SVD of the weight matrices.
-- [12] LoRAP: Transformer Sub-Layers Deserve Differentiated Structured Compression for Large Language Models
+- [16] LoRAP: Transformer Sub-Layers Deserve Differentiated Structured Compression for Large Language Models
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2404.09695)
   - Label: Other, Low-Rank Decomposition
   - Summary:
-- [13] Structured Pruning for Large Language Models Using Coupled Components Elimination and Minor Fine-tuning
+- [17] Structured Pruning for Large Language Models Using Coupled Components Elimination and Minor Fine-tuning
   - Publication: NAACL 2024 findings, [Paper](https://aclanthology.org/2024.findings-naacl.1.pdf)
   - Label:  
   - Summary:
@@ -178,191 +178,184 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: Conference on Parsimony and Learning 2024, [Paper](https://proceedings.mlr.press/v234/kurtic24a/kurtic24a.pdf)
   - Label: 
   - Summary:
-- [22] SLEB: Streamlining LLMs through Redundancy Verification and Elimination of Transformer Blocks
+- [19] SLEB: Streamlining LLMs through Redundancy Verification and Elimination of Transformer Blocks
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2402.09025)
   - Label: 
   - Summary:
-- [24] Compressing LLMs: The Truth is Rarely Pure and Never Simple
+- [20] Compressing LLMs: The Truth is Rarely Pure and Never Simple
   - Publication: ICLR 2024, [Paper](https://arxiv.org/pdf/2310.01382), [Code](https://github.com/VITA-Group/llm-kick)
   - Label: 
   - Summary:
-- [26] The Emergence of Essential Sparsity in Large Pre-trained Models: The Weights that Matter 
+- [21] The Emergence of Essential Sparsity in Large Pre-trained Models: The Weights that Matter 
   - Publication: NeurIPS 2023, [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/7a69ab48efcbb0153e72d458fb091969-Paper-Conference.pdf)
   - Label: 
   - Summary: 
-- [27] ECoFLaP: Efficient Coarse-to-Fine Layer-Wise Pruning for Vision-Language Models
+- [22] ECoFLaP: Efficient Coarse-to-Fine Layer-Wise Pruning for Vision-Language Models
   - Publication: ICLR 2024, [Paper](https://arxiv.org/pdf/2310.02998), [Code](https://github.com/ylsung/ECoFLaP)
   - Label: 
   - Summary:
-- [28] Pruning via Ranking (PvR): A unified structured pruning approach
+- [23] Pruning via Ranking (PvR): A unified structured pruning approach
   - Publication: Arxiv, [Paper](https://openreview.net/pdf?id=rO62BY3dYc)
   - Label: 
   - Summary:
-- [29] The Need for Speed: Pruning Transformers with One Recipe
+- [24] The Need for Speed: Pruning Transformers with One Recipe
   - Publication: ICLR 2024, [Paper](https://arxiv.org/pdf/2403.17921), [Code](https://github.com/Skhaki18/optin-transformer-pruning)
   - Label: 
   - Summary:
-- [30] Differentiable Model Scaling using Differentiable Topk
+- [25] Differentiable Model Scaling using Differentiable Topk
   - Publication: ICML 2024, [Paper](https://arxiv.org/pdf/2405.07194)
   - Label: 
   - Summary:
-- [31] Everybody Prune Now: Structured Pruning of LLMs with only Forward Passes
+- [26] Everybody Prune Now: Structured Pruning of LLMs with only Forward Passes
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2402.05406)
   - Label: 
   - Summary:
-- [32] Flextron: Many-in-One Flexible Large Language Model
+- [27] Flextron: Many-in-One Flexible Large Language Model
   - Publication: ICML 2024, [Paper](https://arxiv.org/pdf/2406.10260)
   - Label: 
   - Summary:
-- [33] Compresso: Structured Pruning with Collaborative Prompting Learns Compact Large Language Models
+- [28] Compresso: Structured Pruning with Collaborative Prompting Learns Compact Large Language Models
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2310.05015)
   - Label: 
   - Summary:
-- [34] Structural Pruning of Large Language Models via Neural Architecture Search
+- [29] Structural Pruning of Large Language Models via Neural Architecture Search
   - Publication: Arxiv, [Paper](https://assets.amazon.science/40/08/3b42096c4427a35fee1ea612401d/structural-pruning-of-large-language-models-via-neural-architecture-search.pdf)
   - Label: 
   - Summary:
-- [36] The Unreasonable Ineffectiveness of the Deeper Layers
+- [30] The Unreasonable Ineffectiveness of the Deeper Layers
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2403.17887)
   - Label: Structure Pruning, Layer Pruning
   - Summary:
-- [37] Junk DNA Hypothesis: Pruning Small Pre-Trained Weights Irreversibly and Monotonically Impairs “Difficult" Downstream Tasks in LLMs 
+- [31] Junk DNA Hypothesis: Pruning Small Pre-Trained Weights Irreversibly and Monotonically Impairs “Difficult" Downstream Tasks in LLMs 
   - Publication: ICML 2024, [Paper](https://openreview.net/pdf?id=EfUrTeuUfy), [Code](https://github.com/VITA-Group/Junk_DNA_Hypothesis)
   - Label: 
   - Summary:
-- [39] BESA: Pruning Large Language Models with Blockwise Parameter-Efficient Sparsity Allocation Outlier 
+- [32] BESA: Pruning Large Language Models with Blockwise Parameter-Efficient Sparsity Allocation Outlier 
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2402.16880)
   - Label: 
   - Summary:
-- [40] Pruner-Zero: Evolving Symbolic Pruning Metric from scratch for Large Language Models 
+- [33] Pruner-Zero: Evolving Symbolic Pruning Metric from scratch for Large Language Models 
   - Publication: ICML 2024, [Paper](https://arxiv.org/pdf/2406.02924)
   - Label: 
   - Summary:
-- [41] Pruning as a Domain-specific LLM Extractor
+- [34] Pruning as a Domain-specific LLM Extractor
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2405.06275)
   - Label: 
   - Summary:
-- [42] MINI-LLM: Memory-Efficient Structured Pruning for Large Language Models
+- [35] MINI-LLM: Memory-Efficient Structured Pruning for Large Language Models
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2407.11681)
   - Label: 
   - Summary:
-- [43] Optimization-based Structural Pruning for Large Language Models without Back-Propagation
+- [36] Optimization-based Structural Pruning for Large Language Models without Back-Propagation
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2406.10576)
   - Label: 
   - Summary:
-- [44] Outlier Weighed Layerwise Sparsity (OWL): A Missing Secret Sauce for Pruning LLMs to High Sparsity
+- [37] Outlier Weighed Layerwise Sparsity (OWL): A Missing Secret Sauce for Pruning LLMs to High Sparsity
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2310.05175), [Code](https://github.com/luuyin/OWL)
   - Label: 
   - Summary:
-- [45] ALPS: Improved Optimization for Highly Sparse One-Shot Pruning for Large Language Models  
+- [38] ALPS: Improved Optimization for Highly Sparse One-Shot Pruning for Large Language Models  
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2406.07831)
   - Label: 
   - Summary:
-- [46] Nuteprune: Efficient progressive pruning with numerous teachers for large language models
+- [39] Nuteprune: Efficient progressive pruning with numerous teachers for large language models
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2402.09773)
   - Label: 
   - Summary:
-- [47] MoreauPruner: Robust Pruning of Large Language Models against Weight Perturbations 
+- [40] MoreauPruner: Robust Pruning of Large Language Models against Weight Perturbations 
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2406.07017), [Code](https://github.com/ShiningSord/MoreauPruner)
   - Label: 
   - Summary:
-- [48] Large Language Model Pruning 
+- [41] Large Language Model Pruning 
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2406.00030)
   - Label: 
   - Summary:
-- [49] ShadowLLM: Predictor-based Contextual Sparsity for Large Language Models 
+- [42] ShadowLLM: Predictor-based Contextual Sparsity for Large Language Models 
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2406.16635), [Code](https://github.com/abdelfattah-lab/shadow_llm/)
   - Label: 
   - Summary:
-- [50] Turbo Sparse: Achieving LLM SOTA Performance with Minimal Activated Parameters
+- [43] Turbo Sparse: Achieving LLM SOTA Performance with Minimal Activated Parameters
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2406.05955)
   - Label: 
   - Summary:
-- [52] Sparsity May Cry: Let Us Fail (Current) Sparse Neural Networks Together!
+- [44] Sparsity May Cry: Let Us Fail (Current) Sparse Neural Networks Together!
   - Publication: ICLR 2023, [Paper](https://arxiv.org/pdf/2303.02141)
   - Label: 
   - Summary:
-- [54] FinerCut: Finer-grained Interpretable Layer Pruning for Large Language Models
+- [45] FinerCut: Finer-grained Interpretable Layer Pruning for Large Language Models
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2405.18218)
   - Label: 
   - Summary:
-- [55] ZipLM: Inference-Aware Structured Pruning of Language Models
+- [46] ZipLM: Inference-Aware Structured Pruning of Language Models
   - Publication: NeurIPS 2023, [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/ced46a50befedcb884ccf0cbe8c3ad23-Paper-Conference.pdf)
   - Label: 
   - Summary:
-- [56] Achieving Sparse Activation in Small Language Models
+- [47] Achieving Sparse Activation in Small Language Models
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2406.06562)
   - Label: 
   - Summary:
-- [57] Greedy Output Approximation: Towards Efficient Structured Pruning for LLMs Without Retraining
+- [48] Greedy Output Approximation: Towards Efficient Structured Pruning for LLMs Without Retraining
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2407.19126)
   - Label: 
   - Summary:
-- [58] Efficient Pruning of Large Language Model with Adaptive Estimation Fusion
+- [49] Efficient Pruning of Large Language Model with Adaptive Estimation Fusion
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2403.10799)
   - Label: 
   - Summary:
-- [59] A deeper look at depth pruning of LLMs
+- [50] A deeper look at depth pruning of LLMs
   - Publication: ICML 2024 Workshop, [Paper](https://arxiv.org/pdf/2407.16286), [Code](https://github.com/shoaibahmed/llm_depth_pruning)
   - Label: Structure Pruning, Layer Pruning
   - Summary:
-- [60] Compact Language Models via Pruning and Knowledge Distillation
+- [51] Compact Language Models via Pruning and Knowledge Distillation
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2407.14679)
   - Label: 
   - Summary: 
-- [61] BlockLLM: Memory-Efficient Adaptation of LLMs by Selecting and Optimizing the Right Coordinate Blocks
+- [52] BlockLLM: Memory-Efficient Adaptation of LLMs by Selecting and Optimizing the Right Coordinate Blocks
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2406.17296)
   - Label: 
   - Summary:
-- [62] Structured Pruning for Efficient Generative Pre-trained Language Models
+- [53] Structured Pruning for Efficient Generative Pre-trained Language Models
   - Publication: ACL 2023 Findings, [Paper](https://aclanthology.org/2023.findings-acl.692.pdf)
   - Label: 
   - Summary:
-- [63] Reconstruct the Pruned Model without Any Retraining
+- [54] Reconstruct the Pruned Model without Any Retraining
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2407.13331)
   - Label: 
   - Summary:
-- [64] Pruning before Fine-tuning: A Retraining-free Compression Framework for Pre-trained Language Models
+- [55] Pruning before Fine-tuning: A Retraining-free Compression Framework for Pre-trained Language Models
   - Publication: LREC-COLING 2024, [Paper](https://aclanthology.org/2024.lrec-main.1162.pdf), [Code](https://github.com/applewpj/P-pruning)
   - Label: 
   - Summary:
-- [64] OSSCAR: One-Shot Structured Pruning in Vision and Language Models with Combinatorial Optimization
+- [56] OSSCAR: One-Shot Structured Pruning in Vision and Language Models with Combinatorial Optimization
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2403.12983)
   - Label: 
   - Summary:
-- [64] NASH: A Simple Unified Framework of Structured Pruning for Accelerating Encoder-Decoder Language Models
+- [57] NASH: A Simple Unified Framework of Structured Pruning for Accelerating Encoder-Decoder Language Models
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2310.10054), [Code](https://github.com/jongwooko/NASH-Pruning-Official)
   - Label: 
   - Summary:
-- [64] LoRAPrune: Pruning Meets Low-Rank Parameter-Efficient Fine-Tuning
+- [58] LoRAPrune: Pruning Meets Low-Rank Parameter-Efficient Fine-Tuning
   - Publication: ACL 2024 Findings, [Paper](https://arxiv.org/pdf/2305.18403)
   - Label: 
   - Summary:
-- [64] Not all Layers of LLMs are Necessary during Inference
+- [59] Not all Layers of LLMs are Necessary during Inference
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2403.02181)
   - Label: 
   - Summary:
-- [64] Streamlining Redundant Layers to Compress Large Language Models
+- [60] Streamlining Redundant Layers to Compress Large Language Models
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2403.19135)
   - Label: Structure Pruning, Layer Pruning
   - Summary:
-- [64] Compact Language Models via Pruning and Knowledge Distillation
+- [61] Compact Language Models via Pruning and Knowledge Distillation
   - Publication: Arxiv, [Paper](https://www.arxiv.org/pdf/2407.14679), [Code](https://github.com/NVlabs/Minitron)
   - Label: 
   - Summary:
-- [64] 
-  - Publication: Arxiv, [Paper]()
-  - Label: 
-  - Summary:
-
-
-
 ### Others
-- [65] How Does Calibration Data Affect the Post-training Pruning and Quantization of Large Language Models?
+- [1] How Does Calibration Data Affect the Post-training Pruning and Quantization of Large Language Models?
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2311.09755)
   - Label: 
   - Summary:
-- [64] Efficient Expert Pruning for Sparse Mixture-of-Experts Language Models: Enhancing Performance and Reducing Inference Costs
+- [2] Efficient Expert Pruning for Sparse Mixture-of-Experts Language Models: Enhancing Performance and Reducing Inference Costs
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2407.00945)
   - Label: 
   - Summary:
