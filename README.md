@@ -442,7 +442,15 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 If the statistics are wrong, please don't hesitate to contact us.
 
 ## Citation
-
+If you find this project useful for your research, please use the following BibTeX entry.
+'''
+@misc{,
+  author={},
+  title={Awesome Dataset Distillation},
+  howpublished={},
+  year={}
+}
+'''
 ## Acknowledgements
 Our 
 > [Awesome-LLM-Prune](https://github.com/pprp/Awesome-LLM-Prune?tab=readme-ov-file)
