@@ -34,7 +34,11 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 - [3] SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot
   - Publication: ICML23, [Paper](https://proceedings.mlr.press/v202/frantar23a/frantar23a.pdf)
   - Label:
-  - Summary: 
+  - Summary:
+- [4] One-Shot Sensitivity-Aware Mixed Sparsity Pruning for Large Language Models
+  - Publication: ICASSP 2024, [Paper](https://ieeexplore.ieee.org/abstract/document/10445737)
+  - Label: 
+  - Summary:
 
 ### Structured Pruning
 > Structured pruning achieves inference speedup by removing entire network structures, such as , and . As a result, the sparsity ratios in structured pruned models are typically lower than those in unstructured ones.
@@ -229,10 +233,7 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2406.05955)
   - Label: 
   - Summary:
-- [51] One-Shot Sensitivity-Aware Mixed Sparsity Pruning for Large Language Models
-  - Publication: ICASSP 2024, [Paper](https://ieeexplore.ieee.org/abstract/document/10445737)
-  - Label: 
-  - Summary:
+
 - [52] Sparsity May Cry: Let Us Fail (Current) Sparse Neural Networks Together!
   - Publication: ICLR 2023, [Paper](https://arxiv.org/pdf/2303.02141)
   - Label: 
