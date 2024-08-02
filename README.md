@@ -325,7 +325,7 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Label: 
   - Summary:
 - [64] NASH: A Simple Unified Framework of Structured Pruning for Accelerating Encoder-Decoder Language Models
-  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2310.10054)
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2310.10054), [Code](https://github.com/jongwooko/NASH-Pruning-Official)
   - Label: 
   - Summary:
 - [64] 
