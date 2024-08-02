@@ -5,7 +5,9 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 # Contents
 - Papers
   - Survey
-  - Layer Pruning
+  - Unstructured Pruning
+  - Structured Pruning
+  - Others
 - Fine-tuning methods
 - Models
 - Datasets 
@@ -314,11 +316,12 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: Arxiv, [Paper]()
   - Label: 
   - Summary:
-- [65] 
-  - Publication: Arxiv, [Paper]()
+
+### Others
+- [65] How Does Calibration Data Affect the Post-training Pruning and Quantization of Large Language Models?
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2311.09755)
   - Label: 
   - Summary:
-
 
 ## Models
 | Name     | Paper         |
