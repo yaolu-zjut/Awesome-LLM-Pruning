@@ -21,11 +21,11 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Summary: Quantization, Pruning, Knowledge Distillation, Compact Architecture Design, Dynamic Networks
 
 ### Unstructured Pruning
-The pruning units are individual weights. The weights to be pruned are zeroed out.
+The pruning units are individual weights. The weights to be pruned are zeroed out. Unstructured pruning tends to get a higher sparsity ratio and maintain better performance. However, unstructured pruning makes it easy to achieve inference speedup unless with specific handware support.
 
 
 ### Structured Pruning
-
+The pruning units include 
 
 - [1] Shortened LLaMA: Depth Pruning for Large Language Models with Comparison of Retraining Methods
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2402.02834), [Code](https://github.com/Nota-NetsPresso/shortened-llm)
