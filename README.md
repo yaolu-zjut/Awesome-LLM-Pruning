@@ -19,10 +19,7 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 - [1] Model Compression and Efficient Inference for Large Language Models: A Survey
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2402.09748)
   - Summary: Quantization, Pruning, Knowledge Distillation, Compact Architecture Design, Dynamic Networks
-- [2] E-Sparse: Boosting the Large Language Model Inference through Entropy-based N:M Sparsity 
-  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2310.15929)
-  - Label: 
-  - Summary: 
+
 
 ### Unstructured Pruning
 > Unstructured pruning involves zeroing out individual weights, resulting in higher sparsity ratios while maintaining better performance. However, without specialized hardware support, it can be challenging to achieve inference speedup with this method.
@@ -30,6 +27,14 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: ICLR 2024, [Paper](https://arxiv.org/pdf/2306.11695.pdf), [Code](https://github.com/locuslab/wanda)
   - Label:
   - Summary:
+- [2] E-Sparse: Boosting the Large Language Model Inference through Entropy-based N:M Sparsity 
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2310.15929)
+  - Label: 
+  - Summary:  
+- [3] SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot
+  - Publication: ICML23, [Paper](https://proceedings.mlr.press/v202/frantar23a/frantar23a.pdf)
+  - Label:
+  - Summary: 
 
 ### Structured Pruning
 > Structured pruning achieves inference speedup by removing entire network structures, such as , and . As a result, the sparsity ratios in structured pruned models are typically lower than those in unstructured ones.
@@ -58,10 +63,6 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2406.10594), [Code](https://github.com/MrGGLS/BlockPruner)
   - Label: Structure Pruning, 
   - Summary: BlockPruner segments each Transformer layer into MHA and MLP blocks. It then assesses the importance of these blocks using perplexity measures and applies a heuristic search for iterative pruning.
-- [7] SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot
-  - Publication: ICML23, [Paper](https://proceedings.mlr.press/v202/frantar23a/frantar23a.pdf)
-  - Label:
-  - Summary: 
 - [8] LLM-Pruner: On the Structural Pruning of Large Language Models
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2305.11627)
   - Label:
