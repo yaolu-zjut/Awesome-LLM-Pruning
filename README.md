@@ -20,13 +20,11 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2402.09748)
   - Summary: Quantization, Pruning, Knowledge Distillation, Compact Architecture Design, Dynamic Networks
 
-### Layer Pruning
+### Unstructured Pruning
+The pruning units are individual weights. The weights to be pruned are zeroed out.
 
 
-### Layer Pruning
-
-
-### Layer Pruning
+### Structured Pruning
 
 
 - [1] Shortened LLaMA: Depth Pruning for Large Language Models with Comparison of Retraining Methods
