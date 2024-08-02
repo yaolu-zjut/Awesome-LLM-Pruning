@@ -258,8 +258,8 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2407.14679)
   - Label: 
   - Summary: 
-- [61] 
-  - Publication: Arxiv, [Paper]()
+- [61] BlockLLM: Memory-Efficient Adaptation of LLMs by Selecting and Optimizing the Right Coordinate Blocks
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2406.17296)
   - Label: 
   - Summary:
 - [62] 
