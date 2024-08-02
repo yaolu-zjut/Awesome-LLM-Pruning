@@ -102,7 +102,14 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: Arxiv, [Paper](https://openreview.net/pdf?id=bU9hwbsVcy), [Code](https://github.com/VITA-Group/essential_sparsity)
   - Label: 
   - Summary: 
-
+- [14] PERP: Rethinking the Prune-Retrain Paradigm in the Era of LLMs
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2312.15230)
+  - Label: 
+  - Summary:
+- [15] Gradient-Free Adaptive Global Pruning for Pre-trained Language Models
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2402.17946v1), [Code](https://github.com/BaiTheBest/SparseLLM)
+  - Label: 
+  - Summary: 
 
 ### Structured Pruning
 > Structured pruning achieves inference speedup by removing entire network structures, such as , and . As a result, the sparsity ratios in structured pruned models are typically lower than those in unstructured ones.
@@ -180,10 +187,6 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Summary:
 - [19] SLEB: Streamlining LLMs through Redundancy Verification and Elimination of Transformer Blocks
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2402.09025)
-  - Label: 
-  - Summary:
-- [20] Compressing LLMs: The Truth is Rarely Pure and Never Simple
-  - Publication: ICLR 2024, [Paper](https://arxiv.org/pdf/2310.01382), [Code](https://github.com/VITA-Group/llm-kick)
   - Label: 
   - Summary:
 - [21] The Emergence of Essential Sparsity in Large Pre-trained Models: The Weights that Matter 
@@ -357,6 +360,10 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Summary:
 - [2] Efficient Expert Pruning for Sparse Mixture-of-Experts Language Models: Enhancing Performance and Reducing Inference Costs
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2407.00945)
+  - Label: 
+  - Summary:
+- [3] Compressing LLMs: The Truth is Rarely Pure and Never Simple
+  - Publication: ICLR 2024, [Paper](https://arxiv.org/pdf/2310.01382), [Code](https://github.com/VITA-Group/llm-kick)
   - Label: 
   - Summary:
 
