@@ -312,8 +312,8 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: ACL 2023 Findings, [Paper](https://aclanthology.org/2023.findings-acl.692.pdf)
   - Label: 
   - Summary:
-- [63] 
-  - Publication: Arxiv, [Paper]()
+- [63] Reconstruct the Pruned Model without Any Retraining
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2407.13331)
   - Label: 
   - Summary:
 - [64] 
