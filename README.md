@@ -20,6 +20,14 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2402.09748)
   - Summary: Quantization, Pruning, Knowledge Distillation, Compact Architecture Design, Dynamic Networks
 
+### Layer Pruning
+
+
+### Layer Pruning
+
+
+### Layer Pruning
+
 
 - [1] Shortened LLaMA: Depth Pruning for Large Language Models with Comparison of Retraining Methods
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2402.02834), [Code](https://github.com/Nota-NetsPresso/shortened-llm)
