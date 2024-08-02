@@ -213,41 +213,70 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2406.16635), [Code](https://github.com/abdelfattah-lab/shadow_llm/)
   - Label: 
   - Summary:
-- [50] 
+- [50] Turbo Sparse: Achieving LLM SOTA Performance with Minimal Activated Parameters
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2406.05955)
+  - Label: 
+  - Summary:
+- [51] One-Shot Sensitivity-Aware Mixed Sparsity Pruning for Large Language Models
+  - Publication: ICASSP 2024, [Paper](https://ieeexplore.ieee.org/abstract/document/10445737)
+  - Label: 
+  - Summary:
+- [52] Sparsity May Cry: Let Us Fail (Current) Sparse Neural Networks Together!
+  - Publication: ICLR 2023, [Paper](https://arxiv.org/pdf/2303.02141)
+  - Label: 
+  - Summary:
+- [53] Compressing large language models by streamlining the unimportant layer
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2403.19135)
+  - Label: Structure Pruning, Layer Pruning
+  - Summary:
+- [54] FinerCut: Finer-grained Interpretable Layer Pruning for Large Language Models
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2405.18218)
+  - Label: 
+  - Summary:
+- [55] ZipLM: Inference-Aware Structured Pruning of Language Models
+  - Publication: NeurIPS 2023, [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/ced46a50befedcb884ccf0cbe8c3ad23-Paper-Conference.pdf)
+  - Label: 
+  - Summary:
+- [56] Achieving Sparse Activation in Small Language Models
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2406.06562)
+  - Label: 
+  - Summary:
+- [57] Greedy Output Approximation: Towards Efficient Structured Pruning for LLMs Without Retraining
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2407.19126)
+  - Label: 
+  - Summary:
+- [58] 
   - Publication: Arxiv, [Paper]()
   - Label: 
   - Summary:
-- [51] 
+- [59] 
   - Publication: Arxiv, [Paper]()
   - Label: 
   - Summary:
-- [52] 
+- [60] 
+  - Publication: Arxiv, [Paper]()
+  - Label: 
+  - Summary: 
+- [61] 
   - Publication: Arxiv, [Paper]()
   - Label: 
   - Summary:
-- [53] 
+- [62] 
   - Publication: Arxiv, [Paper]()
   - Label: 
   - Summary:
-- [54] 
+- [63] 
   - Publication: Arxiv, [Paper]()
   - Label: 
   - Summary:
-- [55] 
+- [64] 
   - Publication: Arxiv, [Paper]()
   - Label: 
   - Summary:
-- [56] 
+- [65] 
   - Publication: Arxiv, [Paper]()
   - Label: 
   - Summary:
-- [57] 
-  - Publication: Arxiv, [Paper]()
-  - Label: 
-  - Summary:
-
-
-
 
 
 ## Models
