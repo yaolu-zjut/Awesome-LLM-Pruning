@@ -58,21 +58,22 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 
 ### Structured Pruning
 > Structured pruning achieves inference speedup by removing entire network structures, such as , and . As a result, the sparsity ratios in structured pruned models are typically lower than those in unstructured ones.
-
-
-- [35] Fluctuation-Based Adaptive Structured Pruning for Large Language Models
+- [1] Fluctuation-Based Adaptive Structured Pruning for Large Language Models
   - Publication: AAAI 2024, [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28960), [Code](https://github.com/CASIA-IVA-Lab/FLAP)
   - Label: Magnitude-based Pruning
   - Summary:
-- [16] SliceGPT: Compress Large Language Models by Deleting Rows and Columns
+- [2] SliceGPT: Compress Large Language Models by Deleting Rows and Columns
   - Publication:  ICLR 2024, [Paper](https://arxiv.org/pdf/2401.15024)
   - Label: Magnitude-based Pruning
   - Summary:
-- [16] Mini-GPTs: Efficient Large Language Models through Contextual Pruning
+- [3] Mini-GPTs: Efficient Large Language Models through Contextual Pruning
   - Publication:  ICLR 2024, [Paper](https://arxiv.org/pdf/2312.12682), [Code](https://github.com/tval2/contextual-pruning)
   - Label: Magnitude-based Pruning
   - Summary:
-
+- [4] LLM-Pruner: On the Structural Pruning of Large Language Models
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2305.11627)
+  - Label: Loss-based Pruning
+  - Summary: LLM-Pruner details a pruning algorithm that evaluates neuron importance within each layer. Based on the pruning algorithm，It removes neurons with minimal contribution to optimize model efficiency.
 
 
 
@@ -100,10 +101,7 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2406.10594), [Code](https://github.com/MrGGLS/BlockPruner)
   - Label: Structure Pruning, 
   - Summary: BlockPruner segments each Transformer layer into MHA and MLP blocks. It then assesses the importance of these blocks using perplexity measures and applies a heuristic search for iterative pruning.
-- [8] LLM-Pruner: On the Structural Pruning of Large Language Models
-  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2305.11627)
-  - Label:
-  - Summary: LLM-Pruner details a pruning algorithm that evaluates neuron importance within each layer. Based on the pruning algorithm，It removes neurons with minimal contribution to optimize model efficiency.
+
 - [9] The Truth is in There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2312.13558), [Code](https://github.com/pratyushasharma/laser)
   - Label: Other, Low-Rank Decomposition
