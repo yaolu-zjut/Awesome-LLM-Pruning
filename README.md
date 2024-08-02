@@ -19,6 +19,10 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 - [1] Model Compression and Efficient Inference for Large Language Models: A Survey
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2402.09748)
   - Summary: Quantization, Pruning, Knowledge Distillation, Compact Architecture Design, Dynamic Networks
+- [2] A survey on model compression for large language models
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2308.07633)
+  - Label: Quantization, Pruning, Knowledge Distillation, Low-Rank Factorization 
+  - Summary:
 
 
 ### Unstructured Pruning
