@@ -245,13 +245,13 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2407.19126)
   - Label: 
   - Summary:
-- [58] 
-  - Publication: Arxiv, [Paper]()
+- [58] Efficient Pruning of Large Language Model with Adaptive Estimation Fusion
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2403.10799)
   - Label: 
   - Summary:
-- [59] 
-  - Publication: Arxiv, [Paper]()
-  - Label: 
+- [59] A deeper look at depth pruning of LLMs
+  - Publication: ICML 2024 Workshop, [Paper](https://arxiv.org/pdf/2407.16286), [Code](https://github.com/shoaibahmed/llm_depth_pruning)
+  - Label: Structure Pruning, Layer Pruning
   - Summary:
 - [60] 
   - Publication: Arxiv, [Paper]()
