@@ -326,6 +326,11 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2311.09755)
   - Label: 
   - Summary:
+- [64] Efficient Expert Pruning for Sparse Mixture-of-Experts Language Models: Enhancing Performance and Reducing Inference Costs
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2407.00945)
+  - Label: 
+  - Summary:
+
 
 ## Models
 | Name     | Paper         |
