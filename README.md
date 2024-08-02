@@ -22,7 +22,10 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 
 ### Unstructured Pruning
 > Unstructured pruning involves zeroing out individual weights, resulting in higher sparsity ratios while maintaining better performance. However, without specialized hardware support, it can be challenging to achieve inference speedup with this method.
-
+- [1] Wanda: A Simple and Effective Pruning Approach For Large Language Models
+  - Publication: ICLR 2024, [Paper](https://arxiv.org/pdf/2306.11695.pdf), [Code](https://github.com/locuslab/wanda)
+  - Label:
+  - Summary:
 
 ### Structured Pruning
 > Structured pruning achieves inference speedup by removing entire network structures, such as , and . As a result, the sparsity ratios in structured pruned models are typically lower than those in unstructured ones.
@@ -67,10 +70,7 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: ICLR 2024, [Paper](https://openreview.net/pdf?id=Tr0lPx9woF), [Code](https://github.com/biomedical-cybernetics/Relative-importance-and-activation-pruning)
   - Label:
   - Summary: 
-- [11] Wanda: A Simple and Effective Pruning Approach For Large Language Models
-  - Publication: ICLR 2024, [Paper](https://arxiv.org/pdf/2306.11695.pdf), [Code](https://github.com/locuslab/wanda)
-  - Label:
-  - Summary:
+
 - [12] LoRAP: Transformer Sub-Layers Deserve Differentiated Structured Compression for Large Language Models
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2404.09695)
   - Label: Other, Low-Rank Decomposition
