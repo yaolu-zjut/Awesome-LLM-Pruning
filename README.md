@@ -8,7 +8,6 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Unstructured Pruning
   - Structured Pruning
   - Others
-- Fine-tuning methods
 - Models
 - Datasets 
 - Tools
