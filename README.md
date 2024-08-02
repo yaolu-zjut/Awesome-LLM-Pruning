@@ -51,6 +51,23 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 ### Structured Pruning
 > Structured pruning achieves inference speedup by removing entire network structures, such as , and . As a result, the sparsity ratios in structured pruned models are typically lower than those in unstructured ones.
 
+
+- [35] Fluctuation-Based Adaptive Structured Pruning for Large Language Models
+  - Publication: AAAI 2024, [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28960), [Code](https://github.com/CASIA-IVA-Lab/FLAP)
+  - Label: Magnitude-based Pruning
+  - Summary:
+- [16] SliceGPT: Compress Large Language Models by Deleting Rows and Columns
+  - Publication:  ICLR 2024, [Paper](https://arxiv.org/pdf/2401.15024)
+  - Label: Magnitude-based Pruning
+  - Summary:
+- [16] Mini-GPTs: Efficient Large Language Models through Contextual Pruning
+  - Publication:  ICLR 2024, [Paper](https://arxiv.org/pdf/2312.12682), [Code](https://github.com/tval2/contextual-pruning)
+  - Label: Magnitude-based Pruning
+  - Summary:
+
+
+
+
 - [1] Shortened LLaMA: Depth Pruning for Large Language Models with Comparison of Retraining Methods
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2402.02834), [Code](https://github.com/Nota-NetsPresso/shortened-llm)
   - Label: Structure Pruning, Depth Pruning
@@ -104,10 +121,7 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: ICASSP 2024, [Paper](https://arxiv.org/pdf/2309.09507)
   - Label: 
   - Summary:
-- [16] SliceGPT: Compress Large Language Models by Deleting Rows and Columns
-  - Publication:  ICLR 2024, [Paper](https://arxiv.org/pdf/2401.15024)
-  - Label: 
-  - Summary:
+
 - [17] APT: Adaptive Pruning and Tuning Pretrained Language Models for Efficient Training and Inference
   - Publication: ICML 2024 Oral, [Paper](https://arxiv.org/pdf/2401.12200), [Code](https://github.com/ROIM1998/APT)
   - Label: 
@@ -171,10 +185,7 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: Arxiv, [Paper](https://assets.amazon.science/40/08/3b42096c4427a35fee1ea612401d/structural-pruning-of-large-language-models-via-neural-architecture-search.pdf)
   - Label: 
   - Summary:
-- [35] Fluctuation-Based Adaptive Structured Pruning for Large Language Models
-  - Publication: AAAI 2024, [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28960), [Code](https://github.com/CASIA-IVA-Lab/FLAP)
-  - Label: 
-  - Summary: 
+
 - [36] The Unreasonable Ineffectiveness of the Deeper Layers
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2403.17887)
   - Label: Structure Pruning, Layer Pruning
