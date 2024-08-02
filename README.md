@@ -98,7 +98,10 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: EMNLP 2022, [Paper](https://arxiv.org/pdf/2203.07259), [Code](https://github.com/neuralmagic/sparseml/tree/main/research/optimal_BERT_surgeon_oBERT)
   - Label: 
   - Summary:
-
+- [64] The Emergence of Essential Sparsity in Large Pre-trained Models: The Weights that Matter
+  - Publication: Arxiv, [Paper](https://openreview.net/pdf?id=bU9hwbsVcy), [Code](https://github.com/VITA-Group/essential_sparsity)
+  - Label: 
+  - Summary: 
 
 
 ### Structured Pruning
@@ -343,18 +346,15 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2403.19135)
   - Label: Structure Pruning, Layer Pruning
   - Summary:
-- [64] 
-  - Publication: Arxiv, [Paper]()
+- [64] Compact Language Models via Pruning and Knowledge Distillation
+  - Publication: Arxiv, [Paper](https://www.arxiv.org/pdf/2407.14679), [Code](https://github.com/NVlabs/Minitron)
   - Label: 
   - Summary:
 - [64] 
   - Publication: Arxiv, [Paper]()
   - Label: 
   - Summary:
-- [64] 
-  - Publication: Arxiv, [Paper]()
-  - Label: 
-  - Summary: 
+
 
 
 ### Others
