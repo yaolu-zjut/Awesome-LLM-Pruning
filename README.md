@@ -11,7 +11,7 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 - Models
 - Datasets 
 - Tools
-- Others
+- Questions
 - Citation
 
 
@@ -437,11 +437,7 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 - [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness)
 - [OpenCompass](https://github.com/open-compass/opencompass)
 
-
-## 
-- Applicability with Quantization
-
-## Others
+## Questions
 If the statistics are wrong, please don't hesitate to contact us.
 
 ## Citation
