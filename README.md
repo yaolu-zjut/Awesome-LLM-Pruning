@@ -7,6 +7,7 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Survey
   - Unstructured Pruning
   - Structured Pruning
+  - Joint Compression
   - Others
 - Models
 - Datasets 
