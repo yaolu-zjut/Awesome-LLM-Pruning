@@ -130,7 +130,7 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Label: Magnitude-based Pruning
   - Summary:
 - [2] SliceGPT: Compress Large Language Models by Deleting Rows and Columns
-  - Publication:  ICLR 2024, [Paper](https://arxiv.org/pdf/2401.15024)
+  - Publication:  ICLR 2024, [Paper](https://arxiv.org/pdf/2401.15024), [Code](https://github.com/microsoft/TransformerCompression)
   - Label: Magnitude-based Pruning
   - Summary:
 - [3] Mini-GPTs: Efficient Large Language Models through Contextual Pruning
