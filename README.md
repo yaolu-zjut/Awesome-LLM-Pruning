@@ -22,33 +22,25 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 ### Survey
 - [1] Model Compression and Efficient Inference for Large Language Models: A Survey
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2402.09748)
-  - Summary: Quantization, Pruning, Knowledge Distillation, Efficient Architecture Design, Dynamic Networks
+  - Label: Quantization, Pruning, Knowledge Distillation, Efficient Architecture Design, and Dynamic Networks
 - [2] A survey on model compression for large language models
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2308.07633)
-  - Label: Quantization, Pruning, Knowledge Distillation, Low-Rank Factorization 
-  - Summary:
+  - Label: Quantization, Pruning, Knowledge Distillation, and Low-Rank Factorization 
 - [3] A Comprehensive Survey of Compression Algorithms for Language Models
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2401.15347)
-  - Label: Pruning, Quantization, Knowledge Distillation, Low-Rank Factorization, Parameter Sharing, Efficient Architecture Design
-  - Summary:
+  - Label: Pruning, Quantization, Knowledge Distillation, Low-Rank Factorization, Parameter Sharing, and Efficient Architecture Design
 - [4] Faster and Lighter LLMs: A Survey on Current Challenges and Way Forward
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2402.01799), [Code](https://github.com/nyunAI/Faster-LLM-Survey)
-  - Label: Pruning, Quantization, Knowledge Distillation, Low-Rank Factorization, System Level Approaches
-  - Summary:
+  - Label: Pruning, Quantization, Knowledge Distillation, Low-Rank Factorization, and System Level Approaches
 - [5] A Survey on Efficient Inference for Large Language Models
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2404.14294)
-  - Label:  Data-level Optimization, Model-level Optimization, System-level Optimization
-  - Summary:
+  - Label:  Data-level Optimization, Model-level Optimization, and System-level Optimization
 - [6] A survey of resource-efficient llm and multimodal foundation models
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2401.08092), [Website](https://github.com/UbiquitousLearning/Efficient_Foundation_Model_Survey)
-  - Label: Large Language Model, Multimodal Large Language Model, Resource-efficient Architectures,  Resource-efficient Algorithms, Resource-efficient Systems
-  - Summary:
+  - Label: Large Language Model, Multimodal Large Language Model, Resource-efficient Architectures,  Resource-efficient Algorithms, and Resource-efficient Systems
 - [7] Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2401.00625), [Code](https://github.com/tiingweii-shii/Awesome-Resource-Efficient-LLM-Papers)
   - Label: Architecture Design, Pre-training, Finetuning, Inference, and System Design.
-  - Summary:
- 
-  
 
 ### Unstructured Pruning
 > Unstructured pruning involves zeroing out individual weights, resulting in higher sparsity ratios while maintaining better performance. However, without specialized hardware support, it can be challenging to achieve inference speedup with this method.
