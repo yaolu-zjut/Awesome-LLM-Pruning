@@ -322,10 +322,6 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: ICML 2024 Workshop, [Paper](https://arxiv.org/pdf/2407.16286), [Code](https://github.com/shoaibahmed/llm_depth_pruning)
   - Label: Structure Pruning, Layer Pruning
   - Summary:
-- [51] Compact Language Models via Pruning and Knowledge Distillation
-  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2407.14679)
-  - Label: 
-  - Summary: 
 - [52] BlockLLM: Memory-Efficient Adaptation of LLMs by Selecting and Optimizing the Right Coordinate Blocks
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2406.17296)
   - Label: 
@@ -375,6 +371,10 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: ICLR 2024, [Paper](https://arxiv.org/pdf/2310.01382), [Code](https://github.com/VITA-Group/llm-kick)
   - Label: 
   - Summary:
+- [3] Compact Language Models via Pruning and Knowledge Distillation
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2407.14679)
+  - Label: 
+  - Summary: 
 ### Application
 - [1] Pruning for Protection: Increasing Jailbreak Resistance in Aligned LLMs Without Fine-Tuning
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2401.10862)
