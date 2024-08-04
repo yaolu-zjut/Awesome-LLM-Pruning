@@ -139,9 +139,9 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Label: Magnitude-based Pruning
   - Summary:
 - [4] LLM-Pruner: On the Structural Pruning of Large Language Models
-  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2305.11627), [Code](https://github.com/horseee/LLM-Pruner)
+  - Publication: NeurIPS 2023, [Paper](https://arxiv.org/pdf/2305.11627), [Code](https://github.com/horseee/LLM-Pruner)
   - Label: Loss-based Pruning
-  - Summary: LLM-Pruner details a pruning algorithm that evaluates neuron importance within each layer. Based on the pruning algorithm，It removes neurons with minimal contribution to optimize model efficiency.
+  - Summary: 
 - [5] LoRAShear: Efficient Large Language Model Structured Pruning and Knowledge Recovery
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2310.18356)
   - Label: Loss-based Pruning
