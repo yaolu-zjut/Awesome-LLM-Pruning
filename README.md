@@ -8,6 +8,7 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Unstructured Pruning
   - Structured Pruning
   - Joint Compression
+  - Application
   - Others
 - Models
 - Datasets 
@@ -378,8 +379,12 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: ICLR 2024, [Paper](https://arxiv.org/pdf/2310.01382), [Code](https://github.com/VITA-Group/llm-kick)
   - Label: 
   - Summary:
-
-
+### Application
+- [1] Pruning for Protection: Increasing Jailbreak Resistance in Aligned LLMs Without Fine-Tuning
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2401.10862)
+  - Label: 
+  - Summary:
+ 
 ## Models
 | Name     | Paper         |
 |----------|--------------|
