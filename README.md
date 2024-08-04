@@ -358,10 +358,7 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2403.19135)
   - Label: Structure Pruning, Layer Pruning
   - Summary:
-- [61] Compact Language Models via Pruning and Knowledge Distillation
-  - Publication: Arxiv, [Paper](https://www.arxiv.org/pdf/2407.14679), [Code](https://github.com/NVlabs/Minitron)
-  - Label: 
-  - Summary:
+
 ### Others
 - [1] How Does Calibration Data Affect the Post-training Pruning and Quantization of Large Language Models?
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2311.09755)
