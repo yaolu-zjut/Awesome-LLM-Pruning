@@ -45,7 +45,7 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Summary:
 - [7] Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2401.00625), [Code](https://github.com/tiingweii-shii/Awesome-Resource-Efficient-LLM-Papers)
-  - Label: 
+  - Label: Architecture Design, Pre-training, Finetuning, Inference, and System Design.
   - Summary:
  
   
