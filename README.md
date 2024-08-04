@@ -371,17 +371,17 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2311.09755)
   - Label: 
   - Summary:
-- [2] Efficient Expert Pruning for Sparse Mixture-of-Experts Language Models: Enhancing Performance and Reducing Inference Costs
-  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2407.00945)
-  - Label: 
-  - Summary:
-- [3] Compressing LLMs: The Truth is Rarely Pure and Never Simple
+- [2] Compressing LLMs: The Truth is Rarely Pure and Never Simple
   - Publication: ICLR 2024, [Paper](https://arxiv.org/pdf/2310.01382), [Code](https://github.com/VITA-Group/llm-kick)
   - Label: 
   - Summary:
 ### Application
 - [1] Pruning for Protection: Increasing Jailbreak Resistance in Aligned LLMs Without Fine-Tuning
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2401.10862)
+  - Label: 
+  - Summary:
+- [2] Efficient Expert Pruning for Sparse Mixture-of-Experts Language Models: Enhancing Performance and Reducing Inference Costs
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2407.00945)
   - Label: 
   - Summary:
  
