@@ -346,6 +346,11 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2403.19135)
   - Label: Structure Pruning, Layer Pruning
   - Summary:
+### Joint Compression
+- [1] Compressing Large Language Models by Joint Sparsification and Quantization
+    - Publication: ICML 2024, [Paper](https://openreview.net/pdf?id=sCGRhnuMUJ), [Code](https://github.com/uanu2002/JSQ)
+  - Label: 
+  - Summary:
 
 ### Others
 - [1] How Does Calibration Data Affect the Post-training Pruning and Quantization of Large Language Models?
