@@ -115,7 +115,11 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 - [18] Dependency-Aware Semi-Structured Sparsity of GLU Variants in Large Language Models
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2405.01943v1)
   - Label: 
-  - Summary: 
+  - Summary:
+- [19] Junk DNA Hypothesis: Pruning Small Pre-Trained Weights Irreversibly and Monotonically Impairs “Difficult" Downstream Tasks in LLMs 
+  - Publication: ICML 2024, [Paper](https://openreview.net/pdf?id=EfUrTeuUfy), [Code](https://github.com/VITA-Group/Junk_DNA_Hypothesis)
+  - Label: 
+  - Summary:
 ### Structured Pruning
 > Structured pruning achieves inference speedup by removing entire network structures, such as , and . As a result, the sparsity ratios in structured pruned models are typically lower than those in unstructured ones.
 - [1] Fluctuation-Based Adaptive Structured Pruning for Large Language Models
@@ -174,14 +178,6 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2406.10594), [Code](https://github.com/MrGGLS/BlockPruner)
   - Label: Structure Pruning, 
   - Summary: BlockPruner segments each Transformer layer into MHA and MLP blocks. It then assesses the importance of these blocks using perplexity measures and applies a heuristic search for iterative pruning.
-- [15] The Truth is in There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction
-  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2312.13558), [Code](https://github.com/pratyushasharma/laser)
-  - Label: Other, Low-Rank Decomposition
-  - Summary: This paper selectively removing higher-order components found by SVD of the weight matrices.
-- [16] LoRAP: Transformer Sub-Layers Deserve Differentiated Structured Compression for Large Language Models
-  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2404.09695)
-  - Label: Other, Low-Rank Decomposition
-  - Summary:
 - [17] Structured Pruning for Large Language Models Using Coupled Components Elimination and Minor Fine-tuning
   - Publication: NAACL 2024 findings, [Paper](https://aclanthology.org/2024.findings-naacl.1.pdf)
   - Label:  
@@ -229,10 +225,6 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 - [30] The Unreasonable Ineffectiveness of the Deeper Layers
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2403.17887)
   - Label: Structure Pruning, Layer Pruning
-  - Summary:
-- [31] Junk DNA Hypothesis: Pruning Small Pre-Trained Weights Irreversibly and Monotonically Impairs “Difficult" Downstream Tasks in LLMs 
-  - Publication: ICML 2024, [Paper](https://openreview.net/pdf?id=EfUrTeuUfy), [Code](https://github.com/VITA-Group/Junk_DNA_Hypothesis)
-  - Label: 
   - Summary:
 - [32] BESA: Pruning Large Language Models with Blockwise Parameter-Efficient Sparsity Allocation Outlier 
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2402.16880)
@@ -372,7 +364,15 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 - [3] Compact Language Models via Pruning and Knowledge Distillation
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2407.14679)
   - Label: 
-  - Summary: 
+  - Summary:
+- [4] The Truth is in There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2312.13558), [Code](https://github.com/pratyushasharma/laser)
+  - Label: Other, Low-Rank Decomposition
+  - Summary: This paper selectively removing higher-order components found by SVD of the weight matrices.
+- [5] LoRAP: Transformer Sub-Layers Deserve Differentiated Structured Compression for Large Language Models
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2404.09695)
+  - Label: Other, Low-Rank Decomposition
+  - Summary:
 
  
 ## Models
