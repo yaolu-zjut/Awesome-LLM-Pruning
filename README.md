@@ -41,6 +41,9 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 - [7] Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2401.00625), [Code](https://github.com/tiingweii-shii/Awesome-Resource-Efficient-LLM-Papers)
   - Label: Architecture Design, Pre-training, Finetuning, Inference, and System Design.
+- [8] Inference Optimizations for Large Language Models: Effects, Challenges, and Practical Considerations
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2408.03130)
+  - Label: Pruning, Quantization, Knowledge Distillation, and Efficient Architecture Design
 
 ### Unstructured Pruning
 > Unstructured pruning involves zeroing out individual weights, resulting in higher sparsity ratios while maintaining better performance. However, without specialized hardware support, it can be challenging to achieve inference speedup with this method.
@@ -374,8 +377,8 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Label: Other, Low-Rank Decomposition
   - Summary:
 ### Not 
-- [1] 
-  - Publication: Arxiv, [Paper](AConvex-optimization-based Layer-wise Post-training Pruner for Large Language Models), [Code]()
+- [1] A Convex-optimization-based Layer-wise Post-training Pruner for Large Language Models
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2408.03728)
   - Label: 
   - Summary:
 
