@@ -373,6 +373,11 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2404.09695)
   - Label: Other, Low-Rank Decomposition
   - Summary:
+### Not 
+- [1] 
+  - Publication: Arxiv, [Paper](AConvex-optimization-based Layer-wise Post-training Pruner for Large Language Models), [Code]()
+  - Label: 
+  - Summary:
 
  
 ## Models
