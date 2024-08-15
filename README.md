@@ -123,6 +123,10 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
   - Publication: ICML 2024, [Paper](https://openreview.net/pdf?id=EfUrTeuUfy), [Code](https://github.com/VITA-Group/Junk_DNA_Hypothesis)
   - Label: 
   - Summary:
+- [] Pruning Large Language Models with Semi-Structural Adaptive Sparse Training
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2407.20584)
+  - Label: 
+  - Summary:
 ### Structured Pruning
 > Structured pruning achieves inference speedup by removing entire network structures, such as , and . As a result, the sparsity ratios in structured pruned models are typically lower than those in unstructured ones.
 - [1] Fluctuation-Based Adaptive Structured Pruning for Large Language Models
