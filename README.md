@@ -17,6 +17,8 @@ This repository is dedicated to the pruning of large language models (LLMs). It 
 - Citation
 - Acknowledgements
 
+## Contributing to This Collection
+Feel free to open an issue or e-mail yaolu.zjut@gmail.com if you find any missing taxonomies or papers. We will keep updating this collection and survey.
 
 ## Papers
 ### Survey
