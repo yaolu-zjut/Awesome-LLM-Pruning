@@ -130,6 +130,10 @@ Feel free to open an issue or e-mail yaolu.zjut@gmail.com if you find any missin
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2407.20584)
   - Label: 
   - Summary:
+- [] WRP: Weight Recover Prune for Structured Sparsity
+  - Publication: ACL 2024, [Paper](https://aclanthology.org/2024.acl-long.347.pdf)
+  - Label: 
+  - Summary:
 ### Structured Pruning
 > Structured pruning achieves inference speedup by removing entire network structures, such as , and . As a result, the sparsity ratios in structured pruned models are typically lower than those in unstructured ones.
 - [1] Fluctuation-Based Adaptive Structured Pruning for Large Language Models
@@ -386,6 +390,18 @@ Feel free to open an issue or e-mail yaolu.zjut@gmail.com if you find any missin
 ### Not 
 - [1] A Convex-optimization-based Layer-wise Post-training Pruner for Large Language Models
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2408.03728)
+  - Label: 
+  - Summary:
+- [] SP3: Enhancing Structured Pruning via PCA Projection
+  - Publication: ACL 2024 Findings, [Paper](https://aclanthology.org/2024.findings-acl.187.pdf)
+  - Label: 
+  - Summary:
+- [] 
+  - Publication: 
+  - Label: 
+  - Summary:
+- [] 
+  - Publication: 
   - Label: 
   - Summary:
 
