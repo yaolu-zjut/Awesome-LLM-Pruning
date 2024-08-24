@@ -396,8 +396,8 @@ Feel free to open an issue or e-mail yaolu.zjut@gmail.com if you find any missin
   - Publication: ACL 2024 Findings, [Paper](https://aclanthology.org/2024.findings-acl.187.pdf)
   - Label: 
   - Summary:
-- [] 
-  - Publication: 
+- [] Enhancing One-shot Pruned Pre-trained Language Models through Sparse-Dense-Sparse Mechanism
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2408.10473)
   - Label: 
   - Summary:
 - [] 
