@@ -404,7 +404,30 @@ Feel free to open an issue or e-mail yaolu.zjut@gmail.com if you find any missin
   - Publication: 
   - Label: 
   - Summary:
-
+- [] ESPACE: Dimensionality Reduction of Activations for Model Compression
+  - Publication: NeurIPS 2024
+  - Label: 
+  - Summary:
+- [] 
+  - Publication: 
+  - Label: 
+  - Summary:
+- [] 
+  - Publication: 
+  - Label: 
+  - Summary:
+- [] 
+  - Publication: 
+  - Label: 
+  - Summary:
+- [] 
+  - Publication: 
+  - Label: 
+  - Summary:
+- [] 
+  - Publication: 
+  - Label: 
+  - Summary:
  
 ## Models
 | Name     | Paper         |
