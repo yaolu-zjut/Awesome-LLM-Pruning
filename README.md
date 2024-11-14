@@ -106,8 +106,8 @@ Feel free to open an issue or e-mail yaolu.zjut@gmail.com if you find any missin
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2312.15230)
   - Label: 
   - Summary:
-- [15] Gradient-Free Adaptive Global Pruning for Pre-trained Language Models
-  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2402.17946v1), [Code](https://github.com/BaiTheBest/SparseLLM)
+- [15] SparseLLM: Towards Global Pruning of Pre-trained Language Models
+  - Publication: NeurIPS 2024, [Paper](https://arxiv.org/pdf/2402.17946v1), [Code](https://github.com/BaiTheBest/SparseLLM)
   - Label: 
   - Summary:
 - [16] Fast and Effective Weight Update for Pruned Large Language Models
@@ -412,12 +412,12 @@ Feel free to open an issue or e-mail yaolu.zjut@gmail.com if you find any missin
   - Publication: EMNLP 2024, [Paper](https://aclanthology.org/2024.emnlp-main.775.pdf)
   - Label: Structure Pruning
   - Summary:
-- [] 
-  - Publication: 
+- [] Adaptive Feature-based Low-Rank Compression of Large Language Models via Bayesian Optimization
+  - Publication: EMNLP 2024 Findings, [Paper](https://aclanthology.org/2024.findings-emnlp.240.pdf)
   - Label: 
   - Summary:
-- [] 
-  - Publication: 
+- [] When Compression Meets Model Compression: Memory-Efficient Double Compression for Large Language Models
+  - Publication: EMNLP 2024 Findings, [Paper](https://aclanthology.org/2024.findings-emnlp.988.pdf)
   - Label: 
   - Summary:
 - [] 
