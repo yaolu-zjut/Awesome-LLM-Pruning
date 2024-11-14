@@ -408,9 +408,9 @@ Feel free to open an issue or e-mail yaolu.zjut@gmail.com if you find any missin
   - Publication: NeurIPS 2024
   - Label: 
   - Summary:
-- [] 
-  - Publication: 
-  - Label: 
+- [] Structured Optimal Brain Pruning for Large Language Models
+  - Publication: EMNLP 2024, [Paper](https://aclanthology.org/2024.emnlp-main.775.pdf)
+  - Label: Structure Pruning
   - Summary:
 - [] 
   - Publication: 
