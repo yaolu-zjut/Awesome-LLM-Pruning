@@ -420,8 +420,8 @@ Feel free to open an issue or e-mail yaolu.zjut@gmail.com if you find any missin
   - Publication: EMNLP 2024 Findings, [Paper](https://aclanthology.org/2024.findings-emnlp.988.pdf)
   - Label: 
   - Summary:
-- [] 
-  - Publication: 
+- [] Discovering Sparsity Allocation for Layer-wise Pruning of Large Language Models
+  - Publication: NeurIPS 2024, [Paper](https://openreview.net/pdf?id=rgtrYVC9n4), [Code](https://github.com/lliai/DSA)
   - Label: 
   - Summary:
 - [] 
