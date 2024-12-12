@@ -424,8 +424,8 @@ Feel free to open an issue or e-mail yaolu.zjut@gmail.com if you find any missin
   - Publication: NeurIPS 2024, [Paper](https://openreview.net/pdf?id=rgtrYVC9n4), [Code](https://github.com/lliai/DSA)
   - Label: 
   - Summary:
-- [] 
-  - Publication: 
+- [] LLM-BIP: Structured Pruning for Large Language Models with Block-Wise Forward Importance Propagation
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2412.06419)
   - Label: 
   - Summary:
  
