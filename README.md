@@ -428,7 +428,11 @@ Feel free to open an issue or e-mail yaolu.zjut@gmail.com if you find any missin
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2412.06419)
   - Label: 
   - Summary:
- 
+- [] Beware of Calibration Data for Pruning Large Language Models
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2410.17711)
+  - Label: 
+  - Summary:
+  
 ## Models
 | Name     | Paper         |
 |----------|--------------|
