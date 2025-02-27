@@ -27,7 +27,7 @@ Feel free to open an issue or e-mail yaolu.zjut@gmail.com if you find any missin
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2402.09748)
   - Label: Quantization, Pruning, Knowledge Distillation, Efficient Architecture Design, and Dynamic Networks
 - [2] A survey on model compression for large language models
-  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2308.07633)
+  - Publication: TACL, [Paper](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00704/125482)
   - Label: Quantization, Pruning, Knowledge Distillation, and Low-Rank Factorization 
 - [3] A Comprehensive Survey of Compression Algorithms for Language Models
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2401.15347)
