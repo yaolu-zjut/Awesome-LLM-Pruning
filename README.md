@@ -436,6 +436,10 @@ Feel free to open an issue or e-mail yaolu.zjut@gmail.com if you find any missin
   - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2502.14413)
   - Label: 
   - Summary:
+- [] Towards SEAP: Training-free Sparse Expert Activation Pruning Unlock the Brainpower of Large Language Models
+  - Publication: Arxiv, [Paper](https://arxiv.org/pdf/2503.07605v1)
+  - Label: 
+  - Summary:
   
   
 ## Models
